@@ -15,7 +15,7 @@
     },
     "paragon": {
       "range": "S_hydra!A40:F50",
-      "height": 1620
+      "height": 1630
     }
   },
   "evade-eagle": {
@@ -34,7 +34,7 @@
     },
     "paragon": {
       "range": "SB_evade-eagle!A38:F48",
-      "height": 1620
+      "height": 1630
     }
   },
   "hota-earthquake": {
@@ -53,7 +53,7 @@
     },
     "paragon": {
       "range": "B_hota-earthquake!A44:F54",
-      "height": 1620
+      "height": 1630
     }
   },
   "pulverize": {
@@ -72,7 +72,7 @@
     },
     "paragon": {
       "range": "D_pulverize!A40:F50",
-      "height": 1620
+      "height": 1630
     }
   }
 }
