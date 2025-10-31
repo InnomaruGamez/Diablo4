@@ -22,11 +22,11 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-evade-eagle",
     "equip1": {
       "range": "SB_evade-eagle!A7:D16",
-      "height": 1200
+      "height": 1500
     },
     "equip2": {
       "range": "SB_evade-eagle!A19:D28",
-      "height": 1200
+      "height": 1500
     },
     "rune": {
       "range": "SB_evade-eagle!A31:D35",
@@ -34,7 +34,7 @@
     },
     "paragon": {
       "range": "SB_evade-eagle!A38:F48",
-      "height": 1650
+      "height": 1600
     }
   },
   "hota-earthquake": {
