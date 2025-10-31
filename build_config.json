@@ -1,20 +1,20 @@
 {
-  "hota-earthquake": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota-earthquake",
+  "whirlwind": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-whirlwind",
     "equip1": {
-      "range": "B_hota-earthquake!A7:D19",
+      "range": "B_whirlwind!A7:D19",
       "height": 1600
     },
     "equip2": {
-      "range": "B_hota-earthquake!A22:D34",
+      "range": "B_whirlwind!A22:D34",
       "height": 1600
     },
     "rune": {
-      "range": "B_hota-earthquake!A37:D41",
+      "range": "B_whirlwind!A37:D41",
       "height": 400
     },
     "paragon": {
-      "range": "B_hota-earthquake!A44:F54",
+      "range": "B_whirlwind!A44:F54",
       "height": 1640
     }
   },
