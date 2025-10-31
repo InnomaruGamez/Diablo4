@@ -55,5 +55,24 @@
       "range": "B_hota-earthquake!A44:F54",
       "height": 1670
     }
+  },
+  "pulverize": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-pulverize",
+    "equip1": {
+      "range": "D_pulverize!A7:D17",
+      "height": 1500
+    },
+    "equip2": {
+      "range": "D_pulverize!A20:D30",
+      "height": 1500
+    },
+    "rune": {
+      "range": "D_pulverize!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "D_pulverize!A40:F50",
+      "height": 1670
+    }
   }
 }
