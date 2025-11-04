@@ -14,7 +14,7 @@
       "height": 400
     },
     "paragon": {
-      "range": "B_whirlwind!A44:F54",
+      "range": "B_whirlwind!A44:C54",
       "height": 1400
     }
   },
@@ -33,7 +33,7 @@
       "height": 400
     },
     "paragon": {
-      "range": "D_pulverize!A40:F50",
+      "range": "D_pulverize!A40:C50",
       "height": 1400
     }
   },
@@ -52,7 +52,7 @@
       "height": 400
     },
     "paragon": {
-      "range": "S_hydra!A40:F50",
+      "range": "S_hydra!A40:C50",
       "height": 1400
     }
   },
@@ -71,7 +71,7 @@
       "height": 400
     },
     "paragon": {
-      "range": "SB_evade-eagle!A38:F48",
+      "range": "SB_evade-eagle!A38:C48",
       "height": 1400
     }
   }
