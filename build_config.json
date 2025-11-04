@@ -73,6 +73,10 @@
     "paragon": {
       "range": "SB_evade-eagle!A38:C48",
       "height": 1200
+    },
+    "class_mechanic": {
+      "range": "SB_evade-eagle!A51:C53",
+      "height": 200
     }
   }
 }
