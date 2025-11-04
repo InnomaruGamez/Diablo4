@@ -15,7 +15,7 @@
     },
     "paragon": {
       "range": "B_whirlwind!A44:C54",
-      "height": 1400
+      "height": 1200
     }
   },
   "pulverize": {
@@ -34,7 +34,7 @@
     },
     "paragon": {
       "range": "D_pulverize!A40:C50",
-      "height": 1400
+      "height": 1200
     }
   },
   "hydra": {
@@ -53,7 +53,7 @@
     },
     "paragon": {
       "range": "S_hydra!A40:C50",
-      "height": 1400
+      "height": 1200
     }
   },
   "evade-eagle": {
@@ -72,7 +72,7 @@
     },
     "paragon": {
       "range": "SB_evade-eagle!A38:C48",
-      "height": 1400
+      "height": 1200
     }
   }
 }
