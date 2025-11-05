@@ -62,6 +62,10 @@
     "paragon": {
       "range": "N_bone-spirit!A40:C50",
       "height": 1200
+    },
+    "class_mechanic": {
+      "range": "N_bone-spirit!A53:D56",
+      "height": 300
     }
   },
   "death-trap": {
