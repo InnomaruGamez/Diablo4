@@ -3,11 +3,11 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-whirlwind",
     "equip1": {
       "range": "B_whirlwind!A7:D19",
-      "height": 1600
+      "height": 1700
     },
     "equip2": {
       "range": "B_whirlwind!A22:D34",
-      "height": 1600
+      "height": 1700
     },
     "rune": {
       "range": "B_whirlwind!A37:D41",
@@ -15,7 +15,7 @@
     },
     "paragon": {
       "range": "B_whirlwind!A44:C54",
-      "height": 1200
+      "height": 1100
     },
     "class_mechanic": {
       "range": "B_whirlwind!A57:C58",
