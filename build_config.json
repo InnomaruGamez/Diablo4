@@ -45,6 +45,29 @@
       "height": 350
     }
   },
+  "death-trap": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-death-trap",
+    "equip1": {
+      "range": "R_death-trap!A7:D18",
+      "height": 1600
+    },
+    "equip2": {
+      "range": "R_death-trap!A21:D32",
+      "height": 1600
+    },
+    "rune": {
+      "range": "R_death-trap!A35:D39",
+      "height": 400
+    },
+    "paragon": {
+      "range": "R_death-trap!A42:C52",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "R_death-trap!A53:C57",
+      "height": 180
+    }
+  },
   "hydra": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-hydra",
     "equip1": {
