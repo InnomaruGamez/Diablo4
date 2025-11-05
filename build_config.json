@@ -39,6 +39,10 @@
     "paragon": {
       "range": "D_pulverize!A40:C50",
       "height": 1200
+    },
+    "class_mechanic": {
+      "range": "D_pulverize!A53:C57",
+      "height": 400
     }
   },
   "hydra": {
