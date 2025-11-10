@@ -111,7 +111,23 @@
     }
   },
   "ball-lightning": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-ball-lightning"
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-ball-lightning",
+    "equip1": {
+      "range": "S_ball-lightning!A7:D17",
+      "height": 1500
+    },
+    "equip2": {
+      "range": "S_ball-lightning!A20:D30",
+      "height": 1500
+    },
+    "rune": {
+      "range": "S_ball-lightning!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "S_ball-lightning!A40:C50",
+      "height": 1200
+    }
   },
   "evade-eagle": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-evade-eagle",
