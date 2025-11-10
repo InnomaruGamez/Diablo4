@@ -69,7 +69,27 @@
     }
   },
   "dance-of-knives": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-dance-of-knives"
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-dance-of-knives",
+    "equip1": {
+      "range": "R_dance-of-knives!A7:D18",
+      "height": 1700
+    },
+    "equip2": {
+      "range": "R_dance-of-knives!A21:D32",
+      "height": 1700
+    },
+    "rune": {
+      "range": "R_dance-of-knives!A35:D39",
+      "height": 400
+    },
+    "paragon": {
+      "range": "R_dance-of-knives!A42:C52",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "R_dance-of-knives!A55:C56",
+      "height": 200
+    }
   },
   "death-trap": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-death-trap",
