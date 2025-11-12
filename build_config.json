@@ -1,4 +1,7 @@
 {
+  "frenzy": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-frenzy"
+  },
   "whirlwind": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-whirlwind",
     "equip1": {
@@ -21,6 +24,12 @@
       "range": "B_whirlwind!A57:C58",
       "height": 180
     }
+  },
+  "upheaval": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-upheaval"
+  },
+  "mighty-throw": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-mighty-throw"
   },
   "pulverize": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-pulverize",
@@ -90,6 +99,9 @@
       "range": "D_boulder!A53:C57",
       "height": 320
     }
+  },
+  "fleshrender": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-fleshrender"
   },
   "bone-spirit": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-bone-spirit",
