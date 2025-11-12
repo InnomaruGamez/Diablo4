@@ -165,6 +165,24 @@
   "blood-wave": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-blood-wave"
   },
+  "heartseeker": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-heartseeker"
+  },
+  "flurry": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-flurry"
+  },
+  "twisting-blades": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-twisting-blades"
+  },
+  "rapid-fire": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-rapid-fire"
+  },
+  "barrage": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-barrage"
+  },
+  "penetrating-shot": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-penetrating-shot"
+  },
   "dance-of-knives": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-dance-of-knives",
     "equip1": {
@@ -214,6 +232,15 @@
       "height": 160
     }
   },
+  "fire-bolt": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-fire-bolt"
+  },
+  "incinerate": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-incinerate"
+  },
+  "meteor": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-meteor"
+  },
   "hydra": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-hydra",
     "equip1": {
@@ -232,6 +259,12 @@
       "range": "S_hydra!A40:C50",
       "height": 1200
     }
+  },
+  "blizzard": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-blizzard"
+  },
+  "chain-lightning": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-chain-lightning"
   },
   "ball-lightning": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-ball-lightning",
