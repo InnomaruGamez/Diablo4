@@ -235,6 +235,9 @@
   "fire-bolt": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-fire-bolt"
   },
+  "fireball": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-fireball"
+  },
   "incinerate": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-incinerate"
   },
@@ -259,6 +262,9 @@
       "range": "S_hydra!A40:C50",
       "height": 1200
     }
+  },
+  "iceshards": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-iceshards"
   },
   "blizzard": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-blizzard"
@@ -285,6 +291,12 @@
       "height": 1200
     }
   },
+  "rake": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-rake"
+  },
+  "rushing-claw": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-rushing-claw"
+  },
   "evade-eagle": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-evade-eagle",
     "equip1": {
@@ -307,5 +319,20 @@
       "range": "SB_evade-eagle!A51:C53",
       "height": 300
     }
+  },
+  "quill-volley": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-quill-volley"
+  },
+  "razor-wings": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-razor-wings"
+  },
+  "crushing-hand": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-crushing-hand"
+  },
+  "payback": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-payback"
+  },
+  "touch-of-death": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-touch-of-death"
   }
 }
