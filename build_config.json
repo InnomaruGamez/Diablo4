@@ -25,6 +25,9 @@
       "height": 180
     }
   },
+  "hota-earthquake": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota-earthquake"
+  },
   "upheaval": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-upheaval"
   },
@@ -77,6 +80,18 @@
       "height": 320
     }
   },
+  "tornado": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-tornado"
+  },
+  "lightning-storm": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-lightning-storm"
+  },
+  "fleshrender": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-fleshrender"
+  },
+  "companion": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-companion"
+  },
   "boulder": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-boulder",
     "equip1": {
@@ -100,8 +115,29 @@
       "height": 320
     }
   },
-  "fleshrender": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-fleshrender"
+  "landslide": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-landslide"
+  },
+  "cataclysm": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-cataclysm"
+  },
+  "arch-mages-summoner": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-arch-mages-summoner"
+  },
+  "shadowblight": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-shadowblight"
+  },
+  "bone-spear": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-bone-spear"
+  },
+  "blood-surge": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-blood-surge"
+  },
+  "blood-lance": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-blood-lance"
+  },
+  "sever": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-sever"
   },
   "bone-spirit": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-bone-spirit",
@@ -126,6 +162,9 @@
       "height": 300
     }
   },
+  "blood-wave": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-blood-wave"
+  },
   "dance-of-knives": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-dance-of-knives",
     "equip1": {
@@ -148,6 +187,9 @@
       "range": "R_dance-of-knives!A55:C56",
       "height": 160
     }
+  },
+  "rain-of-arrows": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-rain-of-arrows"
   },
   "death-trap": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-death-trap",
