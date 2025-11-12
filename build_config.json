@@ -68,6 +68,29 @@
       "height": 350
     }
   },
+  "boulder": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-boulder",
+    "equip1": {
+      "range": "D_boulder!A7:D17",
+      "height": 1550
+    },
+    "equip2": {
+      "range": "D_boulder!A20:D30",
+      "height": 1550
+    },
+    "rune": {
+      "range": "D_boulder!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "D_boulder!A40:C50",
+      "height": 1150
+    },
+    "class_mechanic": {
+      "range": "D_boulder!A53:C57",
+      "height": 350
+    }
+  },
   "bone-spirit": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-bone-spirit",
     "equip1": {
