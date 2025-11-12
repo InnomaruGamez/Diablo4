@@ -236,11 +236,11 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-ball-lightning-leveling",
     "equip1": {
       "range": "S_ball-lightning-leveling!A7:E17",
-      "height": 1400
+      "height": 1200
     },
     "rune": {
       "range": "S_ball-lightning-leveling!A20:D24",
-      "height": 300
+      "height": 360
     }
   },
   "fire-bolt": {
