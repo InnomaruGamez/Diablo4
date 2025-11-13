@@ -302,6 +302,21 @@
       "height": 1200
     }
   },
+  "evade-eagle-leveling": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-evade-eagle-leveling",
+    "equip1": {
+      "range": "SB_evade-eagle-leveling!A7:E16",
+      "height": 1200
+    },
+    "rune": {
+      "range": "SB_evade-eagle-leveling!A19:D23",
+      "height": 380
+    },
+    "class_mechanic": {
+      "range": "SB_evade-eagle-leveling!A26:C28",
+      "height": 300
+    }
+  },
   "rake": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-rake"
   },
