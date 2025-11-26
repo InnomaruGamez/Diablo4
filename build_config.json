@@ -56,11 +56,11 @@
       "height": 1000
     },
     "rune": {
-      "range": "D_pulverize-leveling!A33:D37",
+      "range": "D_pulverize-leveling!A20:D24",
       "height": 380
     },
     "class_mechanic": {
-      "range": "D_pulverize-leveling!A53:C57",
+      "range": "D_pulverize-leveling!A27:C31",
       "height": 320
     }
   },
