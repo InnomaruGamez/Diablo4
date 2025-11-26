@@ -3,11 +3,11 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota-leveling",
     "equip1": {
       "range": "B_hota-leveling!A7:E19",
-      "height": 1700
+      "height": 1200
     },
     "rune": {
       "range": "B_hota-leveling!A22:D26",
-      "height": 400
+      "height": 380
     },
     "class_mechanic": {
       "range": "B_hota-leveling!A29:C30",
