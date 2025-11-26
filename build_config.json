@@ -49,6 +49,21 @@
   "mighty-throw": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-mighty-throw"
   },
+  "pulverize-leveling": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-pulverize-leveling",
+    "equip1": {
+      "range": "D_pulverize-leveling!A7:E17",
+      "height": 1000
+    },
+    "rune": {
+      "range": "D_pulverize-leveling!A33:D37",
+      "height": 380
+    },
+    "class_mechanic": {
+      "range": "D_pulverize-leveling!A53:C57",
+      "height": 320
+    }
+  },
   "pulverize": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-pulverize",
     "equip1": {
