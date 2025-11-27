@@ -163,7 +163,7 @@
     },
     "class_mechanic": {
       "range": "N_pure-summoner-leveling!A27:D30",
-      "height": 300
+      "height": 260
     }
   },
   "arch-mages-summoner": {
