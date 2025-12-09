@@ -241,7 +241,27 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-barrage"
   },
   "penetrating-shot": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-penetrating-shot"
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-penetrating-shot",
+    "equip1": {
+      "range": "R_penetrating-shot!A7:D18",
+      "height": 1700
+    },
+    "equip2": {
+      "range": "R_penetrating-shot!A21:D32",
+      "height": 1700
+    },
+    "rune": {
+      "range": "R_penetrating-shot!A35:D39",
+      "height": 400
+    },
+    "paragon": {
+      "range": "R_penetrating-shot!A42:C52",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "R_penetrating-shot!A55:C56",
+      "height": 160
+    }
   },
   "dance-of-knives": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-dance-of-knives",
