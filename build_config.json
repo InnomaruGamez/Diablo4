@@ -278,7 +278,27 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-flurry"
   },
   "twisting-blades": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-twisting-blades"
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-twisting-blades",
+    "equip1": {
+      "range": "R_twisting-blades!A7:D18",
+      "height": 1900
+    },
+    "equip2": {
+      "range": "R_twisting-blades!A21:D32",
+      "height": 1700
+    },
+    "rune": {
+      "range": "R_twisting-blades!A35:D39",
+      "height": 440
+    },
+    "paragon": {
+      "range": "R_twisting-blades!A42:C52",
+      "height": 1160
+    },
+    "class_mechanic": {
+      "range": "R_twisting-blades!A55:C56",
+      "height": 170
+    }
   },
   "rapid-fire": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-rapid-fire"
