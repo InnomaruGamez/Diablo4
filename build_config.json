@@ -449,6 +449,29 @@
       "height": 300
     }
   },
+  "beast-strike": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-beast-strike",
+    "equip1": {
+      "range": "SB_beast-strike!A7:D16",
+      "height": 1500
+    },
+    "equip2": {
+      "range": "SB_beast-strike!A19:D28",
+      "height": 1400
+    },
+    "rune": {
+      "range": "SB_beast-strike!A31:D35",
+      "height": 400
+    },
+    "paragon": {
+      "range": "SB_beast-strike!A38:C48",
+      "height": 1200
+    },
+    "class_mechanic": {
+      "range": "SB_beast-strike!A51:C53",
+      "height": 300
+    }
+  },
   "quill-volley": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-quill-volley"
   },
