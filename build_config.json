@@ -40,6 +40,29 @@
       "height": 180
     }
   },
+  "hota": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota",
+    "equip1": {
+      "range": "B_hota!A7:D19",
+      "height": 1900
+    },
+    "equip2": {
+      "range": "B_hota!A22:D34",
+      "height": 1700
+    },
+    "rune": {
+      "range": "B_hota!A37:D41",
+      "height": 400
+    },
+    "paragon": {
+      "range": "B_hota!A44:C54",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "B_hota!A57:C58",
+      "height": 180
+    }
+  },
   "hota-earthquake": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota-earthquake"
   },
