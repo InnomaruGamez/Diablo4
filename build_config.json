@@ -76,11 +76,11 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-zdps",
     "equip1": {
       "range": "B_zdps!A7:D19",
-      "height": 2100
+      "height": 1900
     },
     "equip2": {
       "range": "B_zdps!A22:D34",
-      "height": 1900
+      "height": 1700
     },
     "rune": {
       "range": "B_zdps!A37:D41",
