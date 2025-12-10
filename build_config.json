@@ -44,11 +44,11 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota",
     "equip1": {
       "range": "B_hota!A7:D19",
-      "height": 1900
+      "height": 2100
     },
     "equip2": {
       "range": "B_hota!A22:D34",
-      "height": 1700
+      "height": 1900
     },
     "rune": {
       "range": "B_hota!A37:D41",
@@ -56,7 +56,7 @@
     },
     "paragon": {
       "range": "B_hota!A44:C54",
-      "height": 1100
+      "height": 1000
     },
     "class_mechanic": {
       "range": "B_hota!A57:C58",
