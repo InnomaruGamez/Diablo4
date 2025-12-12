@@ -490,15 +490,15 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-frozen-orb",
     "equip1": {
       "range": "S_frozen-orb!A7:D17",
-      "height": 1800
+      "height": 1750
     },
     "equip2": {
       "range": "S_frozen-orb!A20:D30",
-      "height": 1600
+      "height": 1500
     },
     "rune": {
       "range": "S_frozen-orb!A33:D37",
-      "height": 400
+      "height": 450
     },
     "paragon": {
       "range": "S_frozen-orb!A40:C50",
