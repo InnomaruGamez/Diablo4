@@ -129,8 +129,8 @@
       "height": 400
     },
     "class_mechanic": {
-      "range": "P_blessed-shield-leveling!A27:C31",
-      "height": 200
+      "range": "P_blessed-shield-leveling!A27:C28",
+      "height": 180
     }
   },
   "shield-charge-leveling": {
@@ -144,8 +144,8 @@
       "height": 400
     },
     "class_mechanic": {
-      "range": "P_shield-charge-leveling!A27:C31",
-      "height": 200
+      "range": "P_shield-charge-leveling!A27:C28",
+      "height": 180
     }
   },
   "pulverize-leveling": {
