@@ -18,11 +18,11 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-lunging-strike",
     "equip1": {
       "range": "B_lunging-strike!A7:D19",
-      "height": 2100
+      "height": 2000
     },
     "equip2": {
       "range": "B_lunging-strike!A22:D34",
-      "height": 1900
+      "height": 1800
     },
     "rune": {
       "range": "B_lunging-strike!A37:D41",
@@ -30,7 +30,7 @@
     },
     "paragon": {
       "range": "B_lunging-strike!A44:C54",
-      "height": 1000
+      "height": 1050
     },
     "class_mechanic": {
       "range": "B_lunging-strike!A57:C58",
