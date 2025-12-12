@@ -15,7 +15,27 @@
     }
   },
   "lunging-strike": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-lunging-strike"
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-lunging-strike",
+    "equip1": {
+      "range": "B_lunging-strike!A7:D19",
+      "height": 2100
+    },
+    "equip2": {
+      "range": "B_lunging-strike!A22:D34",
+      "height": 1900
+    },
+    "rune": {
+      "range": "B_lunging-strike!A37:D41",
+      "height": 400
+    },
+    "paragon": {
+      "range": "B_lunging-strike!A44:C54",
+      "height": 1000
+    },
+    "class_mechanic": {
+      "range": "B_lunging-strike!A57:C58",
+      "height": 180
+    }
   },
   "frenzy": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-frenzy"
