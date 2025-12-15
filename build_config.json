@@ -696,7 +696,7 @@
     },
     "paragon": {
       "range": "P_brandish!A40:C50",
-      "height": 1150
+      "height": 1100
     },
     "class_mechanic": {
       "range": "P_brandish!A53:C54",
@@ -719,7 +719,7 @@
     },
     "paragon": {
       "range": "P_blessed-shield-thorns!A40:C50",
-      "height": 1150
+      "height": 1100
     },
     "class_mechanic": {
       "range": "P_blessed-shield-thorns!A53:C54",
@@ -757,7 +757,7 @@
     },
     "paragon": {
       "range": "P_shield-charge!A40:C50",
-      "height": 1150
+      "height": 1100
     },
     "class_mechanic": {
       "range": "P_shield-charge!A53:C54",
@@ -795,7 +795,7 @@
     },
     "paragon": {
       "range": "P_blessed-hammer!A40:C50",
-      "height": 1150
+      "height": 1100
     },
     "class_mechanic": {
       "range": "P_blessed-hammer!A53:C54",
@@ -818,7 +818,7 @@
     },
     "paragon": {
       "range": "P_auradin!A40:C50",
-      "height": 1150
+      "height": 1100
     },
     "class_mechanic": {
       "range": "P_auradin!A53:C54",
