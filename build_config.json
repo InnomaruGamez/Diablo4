@@ -714,11 +714,11 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-blessed-shield-thorns",
     "equip1": {
       "range": "P_blessed-shield-thorns!A7:D17",
-      "height": 1850
+      "height": 1800
     },
     "equip2": {
       "range": "P_blessed-shield-thorns!A20:D30",
-      "height": 1550
+      "height": 1500
     },
     "rune": {
       "range": "P_blessed-shield-thorns!A33:D37",
@@ -737,11 +737,11 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-blessed-hammer",
     "equip1": {
       "range": "P_blessed-hammer!A7:D17",
-      "height": 1850
+      "height": 1750
     },
     "equip2": {
       "range": "P_blessed-hammer!A20:D30",
-      "height": 1550
+      "height": 1450
     },
     "rune": {
       "range": "P_blessed-hammer!A33:D37",
@@ -753,6 +753,29 @@
     },
     "class_mechanic": {
       "range": "P_blessed-hammer!A53:C54",
+      "height": 180
+    }
+  },
+  "shield-charge": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-shield-charge",
+    "equip1": {
+      "range": "P_shield-charge!A7:D17",
+      "height": 1750
+    },
+    "equip2": {
+      "range": "P_shield-charge!A20:D30",
+      "height": 1450
+    },
+    "rune": {
+      "range": "P_shield-charge!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "P_shield-charge!A40:C50",
+      "height": 1150
+    },
+    "class_mechanic": {
+      "range": "P_shield-charge!A53:C54",
       "height": 180
     }
   },
