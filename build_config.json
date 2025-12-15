@@ -696,7 +696,7 @@
     },
     "paragon": {
       "range": "P_brandish!A40:C50",
-      "height": 1200
+      "height": 1150
     },
     "class_mechanic": {
       "range": "P_brandish!A53:C54",
