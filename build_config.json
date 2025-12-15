@@ -661,11 +661,11 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-wing-strikes",
     "equip1": {
       "range": "P_wing-strikes!A7:D17",
-      "height": 1800
+      "height": 1850
     },
     "equip2": {
       "range": "P_wing-strikes!A20:D30",
-      "height": 1550
+      "height": 1600
     },
     "rune": {
       "range": "P_wing-strikes!A33:D37",
@@ -795,7 +795,7 @@
     },
     "paragon": {
       "range": "P_blessed-hammer!A40:C50",
-      "height": 1100
+      "height": 1150
     },
     "class_mechanic": {
       "range": "P_blessed-hammer!A53:C54",
