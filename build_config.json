@@ -665,11 +665,11 @@
     },
     "equip2": {
       "range": "P_wing-strikes!A20:D30",
-      "height": 1500
+      "height": 1550
     },
     "rune": {
       "range": "P_wing-strikes!A33:D37",
-      "height": 400
+      "height": 450
     },
     "paragon": {
       "range": "P_wing-strikes!A40:C50",
