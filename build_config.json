@@ -657,6 +657,29 @@
   "touch-of-death": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-touch-of-death"
   },
+  "wing-strikes": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-wing-strikes",
+    "equip1": {
+      "range": "P_wing-strikes!A7:D17",
+      "height": 1800
+    },
+    "equip2": {
+      "range": "P_wing-strikes!A20:D30",
+      "height": 1500
+    },
+    "rune": {
+      "range": "P_wing-strikes!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "P_wing-strikes!A40:C50",
+      "height": 1200
+    },
+    "class_mechanic": {
+      "range": "P_wing-strikes!A53:C54",
+      "height": 180
+    }
+  },
   "brandish": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-brandish",
     "equip1": {
