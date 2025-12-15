@@ -710,26 +710,26 @@
       "height": 180
     }
   },
-  "blessed-shield-of-retribution": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-blessed-shield-of-retribution",
+  "blessed-shield-thorns": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-blessed-shield-thorns",
     "equip1": {
-      "range": "P_blessed-shield-of-retribution!A7:D17",
+      "range": "P_blessed-shield-thorns!A7:D17",
       "height": 1850
     },
     "equip2": {
-      "range": "P_blessed-shield-of-retribution!A20:D30",
+      "range": "P_blessed-shield-thorns!A20:D30",
       "height": 1550
     },
     "rune": {
-      "range": "P_blessed-shield-of-retribution!A33:D37",
+      "range": "P_blessed-shield-thorns!A33:D37",
       "height": 400
     },
     "paragon": {
-      "range": "P_blessed-shield-of-retribution!A40:C50",
+      "range": "P_blessed-shield-thorns!A40:C50",
       "height": 1150
     },
     "class_mechanic": {
-      "range": "P_blessed-shield-of-retribution!A53:C54",
+      "range": "P_blessed-shield-thorns!A53:C54",
       "height": 180
     }
   },
