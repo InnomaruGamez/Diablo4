@@ -281,32 +281,6 @@
       "height": 400
     }
   },
-  "shadowblight": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-shadowblight"
-  },
-  "affliction": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-affliction",
-    "equip1": {
-      "range": "N_affliction!A7:D17",
-      "height": 1700
-    },
-    "equip2": {
-      "range": "N_affliction!A20:D30",
-      "height": 1400
-    },
-    "rune": {
-      "range": "N_affliction!A33:D37",
-      "height": 440
-    },
-    "paragon": {
-      "range": "N_affliction!A40:C50",
-      "height": 1000
-    },
-    "class_mechanic": {
-      "range": "N_affliction!A53:D56",
-      "height": 300
-    }
-  },
   "bone-spear": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-bone-spear"
   },
@@ -344,6 +318,52 @@
   },
   "blood-wave": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-blood-wave"
+  },
+  "shadowblight": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-shadowblight",
+    "equip1": {
+      "range": "N_shadowblight!A7:D17",
+      "height": 1700
+    },
+    "equip2": {
+      "range": "N_shadowblight!A20:D30",
+      "height": 1400
+    },
+    "rune": {
+      "range": "N_shadowblight!A33:D37",
+      "height": 440
+    },
+    "paragon": {
+      "range": "N_shadowblight!A40:C50",
+      "height": 1000
+    },
+    "class_mechanic": {
+      "range": "N_shadowblight!A53:D56",
+      "height": 300
+    }
+  },
+  "affliction": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-affliction",
+    "equip1": {
+      "range": "N_affliction!A7:D17",
+      "height": 1700
+    },
+    "equip2": {
+      "range": "N_affliction!A20:D30",
+      "height": 1400
+    },
+    "rune": {
+      "range": "N_affliction!A33:D37",
+      "height": 440
+    },
+    "paragon": {
+      "range": "N_affliction!A40:C50",
+      "height": 1000
+    },
+    "class_mechanic": {
+      "range": "N_affliction!A53:D56",
+      "height": 300
+    }
   },
   "heartseeker": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-heartseeker"
@@ -655,23 +675,23 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-payback",
     "equip1": {
       "range": "SB_payback!A7:D16",
-      "height": 1650
+      "height": 1550
     },
     "equip2": {
       "range": "SB_payback!A19:D28",
-      "height": 1400
+      "height": 1300
     },
     "rune": {
       "range": "SB_payback!A31:D35",
-      "height": 440
+      "height": 400
     },
     "paragon": {
       "range": "SB_payback!A38:C48",
-      "height": 1220
+      "height": 1100
     },
     "class_mechanic": {
       "range": "SB_payback!A51:C53",
-      "height": 300
+      "height": 280
     }
   },
   "touch-of-death": {
