@@ -652,7 +652,27 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-crushing-hand"
   },
   "payback": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-payback"
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-payback",
+    "equip1": {
+      "range": "SB_payback!A7:D16",
+      "height": 1650
+    },
+    "equip2": {
+      "range": "SB_payback!A19:D28",
+      "height": 1400
+    },
+    "rune": {
+      "range": "SB_payback!A31:D35",
+      "height": 440
+    },
+    "paragon": {
+      "range": "SB_payback!A38:C48",
+      "height": 1220
+    },
+    "class_mechanic": {
+      "range": "SB_payback!A51:C53",
+      "height": 300
+    }
   },
   "touch-of-death": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-touch-of-death"
