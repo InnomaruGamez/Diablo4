@@ -90,25 +90,28 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota-earthquake"
   },
   "upheaval": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-upheaval",
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-upheaval"
+  },
+  "leapquake": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-leapquake",
     "equip1": {
-      "range": "B_upheaval!A7:D19",
+      "range": "B_leapquake!A7:D19",
       "height": 2100
     },
     "equip2": {
-      "range": "B_upheaval!A22:D34",
+      "range": "B_leapquake!A22:D34",
       "height": 1900
     },
     "rune": {
-      "range": "B_upheaval!A37:D41",
+      "range": "B_leapquake!A37:D41",
       "height": 400
     },
     "paragon": {
-      "range": "B_upheaval!A44:C54",
+      "range": "B_leapquake!A44:C54",
       "height": 1000
     },
     "class_mechanic": {
-      "range": "B_upheaval!A57:C58",
+      "range": "B_leapquake!A57:C58",
       "height": 180
     }
   },
