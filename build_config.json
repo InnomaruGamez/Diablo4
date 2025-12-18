@@ -539,9 +539,6 @@
   "incinerate": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-incinerate"
   },
-  "meteor": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-meteor"
-  },
   "hydra": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-hydra",
     "equip1": {
@@ -561,6 +558,12 @@
       "height": 1200
     }
   },
+  "meteor": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-meteor"
+  },
+  "iceshards": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-iceshards"
+  },
   "frozen-orb": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-frozen-orb",
     "equip1": {
@@ -579,9 +582,6 @@
       "range": "S_frozen-orb!A40:C50",
       "height": 1200
     }
-  },
-  "iceshards": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-iceshards"
   },
   "blizzard": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-blizzard"
