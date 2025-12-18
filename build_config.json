@@ -347,7 +347,7 @@
     },
     "equip2": {
       "range": "N_blood-wave!A20:D30",
-      "height": 1400
+      "height": 1450
     },
     "rune": {
       "range": "N_blood-wave!A33:D37",
