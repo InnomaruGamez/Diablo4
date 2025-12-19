@@ -429,7 +429,27 @@
     }
   },
   "heartseeker": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-heartseeker"
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-heartseeker",
+    "equip1": {
+      "range": "R_heartseeker!A7:D18",
+      "height": 1900
+    },
+    "equip2": {
+      "range": "R_heartseeker!A21:D32",
+      "height": 1700
+    },
+    "rune": {
+      "range": "R_heartseeker!A35:D39",
+      "height": 440
+    },
+    "paragon": {
+      "range": "R_heartseeker!A42:C52",
+      "height": 1160
+    },
+    "class_mechanic": {
+      "range": "R_heartseeker!A55:C56",
+      "height": 170
+    }
   },
   "flurry": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-flurry"
