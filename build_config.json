@@ -811,7 +811,7 @@
     },
     "equip2": {
       "range": "P_judgement!A20:D30",
-      "height": 1500
+      "height": 1550
     },
     "rune": {
       "range": "P_judgement!A33:D37",
@@ -823,7 +823,7 @@
     },
     "class_mechanic": {
       "range": "P_judgement!A53:C54",
-      "height": 180
+      "height": 200
     }
   },
   "brandish": {
