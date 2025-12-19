@@ -933,6 +933,29 @@
       "height": 200
     }
   },
+  "auradin": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-auradin",
+    "equip1": {
+      "range": "P_auradin!A7:D17",
+      "height": 1850
+    },
+    "equip2": {
+      "range": "P_auradin!A20:D30",
+      "height": 1550
+    },
+    "rune": {
+      "range": "P_auradin!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "P_auradin!A40:C50",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "P_auradin!A53:C54",
+      "height": 180
+    }
+  },
   "shield-charge": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-shield-charge",
     "equip1": {
@@ -968,29 +991,6 @@
     },
     "class_mechanic": {
       "range": "P_shield-charge-leveling!A27:C28",
-      "height": 180
-    }
-  },
-  "auradin": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-auradin",
-    "equip1": {
-      "range": "P_auradin!A7:D17",
-      "height": 1850
-    },
-    "equip2": {
-      "range": "P_auradin!A20:D30",
-      "height": 1550
-    },
-    "rune": {
-      "range": "P_auradin!A33:D37",
-      "height": 400
-    },
-    "paragon": {
-      "range": "P_auradin!A40:C50",
-      "height": 1100
-    },
-    "class_mechanic": {
-      "range": "P_auradin!A53:C54",
       "height": 180
     }
   }
