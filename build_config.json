@@ -302,11 +302,11 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-arch-mages-summoner",
     "equip1": {
       "range": "N_arch-mages-summoner!A7:D17",
-      "height": 1850
+      "height": 1750
     },
     "equip2": {
       "range": "N_arch-mages-summoner!A20:D30",
-      "height": 1550
+      "height": 1500
     },
     "rune": {
       "range": "N_arch-mages-summoner!A33:D37",
@@ -314,7 +314,7 @@
     },
     "paragon": {
       "range": "N_arch-mages-summoner!A40:C50",
-      "height": 1200
+      "height": 1100
     },
     "class_mechanic": {
       "range": "N_arch-mages-summoner!A53:D56",
@@ -644,7 +644,23 @@
     }
   },
   "blizzard": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-blizzard"
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-blizzard",
+    "equip1": {
+      "range": "S_blizzard!A7:D17",
+      "height": 1750
+    },
+    "equip2": {
+      "range": "S_blizzard!A20:D30",
+      "height": 1500
+    },
+    "rune": {
+      "range": "S_blizzard!A33:D37",
+      "height": 450
+    },
+    "paragon": {
+      "range": "S_blizzard!A40:C50",
+      "height": 1200
+    }
   },
   "chain-lightning": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-chain-lightning"
