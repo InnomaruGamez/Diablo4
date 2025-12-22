@@ -678,44 +678,6 @@
       "height": 1200
     }
   },
-  "evade-eagle": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-evade-eagle",
-    "equip1": {
-      "range": "SB_evade-eagle!A7:D16",
-      "height": 1600
-    },
-    "equip2": {
-      "range": "SB_evade-eagle!A19:D28",
-      "height": 1400
-    },
-    "rune": {
-      "range": "SB_evade-eagle!A31:D35",
-      "height": 400
-    },
-    "paragon": {
-      "range": "SB_evade-eagle!A38:C48",
-      "height": 1200
-    },
-    "class_mechanic": {
-      "range": "SB_evade-eagle!A51:C53",
-      "height": 300
-    }
-  },
-  "evade-eagle-leveling": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-evade-eagle-leveling",
-    "equip1": {
-      "range": "SB_evade-eagle-leveling!A7:E16",
-      "height": 1100
-    },
-    "rune": {
-      "range": "SB_evade-eagle-leveling!A19:D23",
-      "height": 400
-    },
-    "class_mechanic": {
-      "range": "SB_evade-eagle-leveling!A26:C28",
-      "height": 280
-    }
-  },
   "beast-strike": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-beast-strike",
     "equip1": {
@@ -764,6 +726,44 @@
   },
   "rushing-claw": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-rushing-claw"
+  },
+  "evade-eagle": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-evade-eagle",
+    "equip1": {
+      "range": "SB_evade-eagle!A7:D16",
+      "height": 1600
+    },
+    "equip2": {
+      "range": "SB_evade-eagle!A19:D28",
+      "height": 1400
+    },
+    "rune": {
+      "range": "SB_evade-eagle!A31:D35",
+      "height": 400
+    },
+    "paragon": {
+      "range": "SB_evade-eagle!A38:C48",
+      "height": 1200
+    },
+    "class_mechanic": {
+      "range": "SB_evade-eagle!A51:C53",
+      "height": 300
+    }
+  },
+  "evade-eagle-leveling": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-evade-eagle-leveling",
+    "equip1": {
+      "range": "SB_evade-eagle-leveling!A7:E16",
+      "height": 1100
+    },
+    "rune": {
+      "range": "SB_evade-eagle-leveling!A19:D23",
+      "height": 400
+    },
+    "class_mechanic": {
+      "range": "SB_evade-eagle-leveling!A26:C28",
+      "height": 280
+    }
   },
   "quill-volley": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-quill-volley"
