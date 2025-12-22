@@ -740,7 +740,27 @@
     }
   },
   "rake": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-rake"
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-rake",
+    "equip1": {
+      "range": "SB_rake!A7:D16",
+      "height": 1550
+    },
+    "equip2": {
+      "range": "SB_rake!A19:D28",
+      "height": 1300
+    },
+    "rune": {
+      "range": "SB_rake!A31:D35",
+      "height": 440
+    },
+    "paragon": {
+      "range": "SB_rake!A38:C48",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "SB_rake!A51:C53",
+      "height": 280
+    }
   },
   "rushing-claw": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-rushing-claw"
@@ -755,11 +775,11 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-crushing-hand",
     "equip1": {
       "range": "SB_crushing-hand!A7:D16",
-      "height": 1650
+      "height": 1550
     },
     "equip2": {
       "range": "SB_crushing-hand!A19:D28",
-      "height": 1400
+      "height": 1300
     },
     "rune": {
       "range": "SB_crushing-hand!A31:D35",
@@ -767,11 +787,11 @@
     },
     "paragon": {
       "range": "SB_crushing-hand!A38:C48",
-      "height": 1220
+      "height": 1100
     },
     "class_mechanic": {
       "range": "SB_crushing-hand!A51:C53",
-      "height": 300
+      "height": 280
     }
   },
   "payback": {
