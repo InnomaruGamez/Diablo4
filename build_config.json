@@ -595,15 +595,15 @@
     },
     "equip2": {
       "range": "R_rain-of-arrows!A21:D32",
-      "height": 1700
+      "height": 1600
     },
     "rune": {
       "range": "R_rain-of-arrows!A35:D39",
-      "height": 440
+      "height": 400
     },
     "paragon": {
       "range": "R_rain-of-arrows!A42:C52",
-      "height": 1160
+      "height": 1100
     },
     "class_mechanic": {
       "range": "R_rain-of-arrows!A55:C56",
