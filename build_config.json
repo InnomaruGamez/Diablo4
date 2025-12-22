@@ -526,7 +526,7 @@
     },
     "class_mechanic": {
       "range": "R_dance-of-knives!A55:C56",
-      "height": 160
+      "height": 170
     }
   },
   "dance-of-knives-leveling": {
@@ -541,7 +541,7 @@
     },
     "class_mechanic": {
       "range": "R_dance-of-knives-leveling!A28:C29",
-      "height": 160
+      "height": 170
     }
   },
   "rain-of-arrows": {
@@ -567,7 +567,7 @@
     },
     "class_mechanic": {
       "range": "R_death-trap!A55:C56",
-      "height": 160
+      "height": 170
     }
   },
   "fire-bolt": {
