@@ -116,7 +116,27 @@
     }
   },
   "mighty-throw": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-mighty-throw"
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-mighty-throw",
+    "equip1": {
+      "range": "B_mighty-throw!A7:D19",
+      "height": 2050
+    },
+    "equip2": {
+      "range": "B_mighty-throw!A22:D34",
+      "height": 1800
+    },
+    "rune": {
+      "range": "B_mighty-throw!A37:D41",
+      "height": 440
+    },
+    "paragon": {
+      "range": "B_mighty-throw!A44:C54",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "B_mighty-throw!A57:C58",
+      "height": 180
+    }
   },
   "zdps": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-zdps",
