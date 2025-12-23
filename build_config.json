@@ -825,11 +825,11 @@
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-quill-volley",
     "equip1": {
       "range": "SB_quill-volley!A7:D16",
-      "height": 1550
+      "height": 1600
     },
     "equip2": {
       "range": "SB_quill-volley!A19:D28",
-      "height": 1300
+      "height": 1400
     },
     "rune": {
       "range": "SB_quill-volley!A31:D35",
