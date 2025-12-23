@@ -139,25 +139,25 @@
     }
   },
   "zdps": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-zdps",
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-zdps",
     "equip1": {
-      "range": "B_zdps!A7:D19",
-      "height": 1950
+      "range": "P_zdps!A7:D17",
+      "height": 1800
     },
     "equip2": {
-      "range": "B_zdps!A22:D34",
-      "height": 1700
+      "range": "P_zdps!A20:D30",
+      "height": 1500
     },
     "rune": {
-      "range": "B_zdps!A37:D41",
+      "range": "P_zdps!A33:D37",
       "height": 400
     },
     "paragon": {
-      "range": "B_zdps!A44:C54",
-      "height": 1000
+      "range": "P_zdps!A40:C50",
+      "height": 1100
     },
     "class_mechanic": {
-      "range": "B_zdps!A57:C58",
+      "range": "P_zdps!A53:C54",
       "height": 180
     }
   },
