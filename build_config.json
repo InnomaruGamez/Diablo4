@@ -822,7 +822,27 @@
     }
   },
   "quill-volley": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-quill-volley"
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-quill-volley",
+    "equip1": {
+      "range": "SB_quill-volley!A7:D16",
+      "height": 1550
+    },
+    "equip2": {
+      "range": "SB_quill-volley!A19:D28",
+      "height": 1300
+    },
+    "rune": {
+      "range": "SB_quill-volley!A31:D35",
+      "height": 440
+    },
+    "paragon": {
+      "range": "SB_quill-volley!A38:C48",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "SB_quill-volley!A51:C53",
+      "height": 280
+    }
   },
   "razor-wings": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-razor-wings"
