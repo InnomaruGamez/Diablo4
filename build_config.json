@@ -1,1281 +1,1156 @@
 {
   "lunging-strike": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-lunging-strike",
-    "sections": {
-      "equip1": {
-        "range": "B_lunging-strike!A7:D19",
-        "height": 2000
-      },
-      "equip2": {
-        "range": "B_lunging-strike!A22:D34",
-        "height": 1800
-      },
-      "rune": {
-        "range": "B_lunging-strike!A37:D41",
-        "height": 400
-      },
-      "paragon": {
-        "range": "B_lunging-strike!A44:C54",
-        "height": 1050
-      },
-      "class_mechanic": {
-        "range": "B_lunging-strike!A57:C58",
-        "height": 180
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-lunging-strike",
+    "equip1": {
+      "range": "B_lunging-strike!A7:D19",
+      "height": 2000
+    },
+    "equip2": {
+      "range": "B_lunging-strike!A22:D34",
+      "height": 1800
+    },
+    "rune": {
+      "range": "B_lunging-strike!A37:D41",
+      "height": 400
+    },
+    "paragon": {
+      "range": "B_lunging-strike!A44:C54",
+      "height": 1050
+    },
+    "class_mechanic": {
+      "range": "B_lunging-strike!A57:C58",
+      "height": 180
     }
   },
   "frenzy": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-frenzy",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-frenzy"
   },
   "whirlwind": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-whirlwind",
-    "sections": {
-      "equip1": {
-        "range": "B_whirlwind!A7:D19",
-        "height": 1700
-      },
-      "equip2": {
-        "range": "B_whirlwind!A22:D34",
-        "height": 1700
-      },
-      "rune": {
-        "range": "B_whirlwind!A37:D41",
-        "height": 400
-      },
-      "paragon": {
-        "range": "B_whirlwind!A44:C54",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "B_whirlwind!A57:C58",
-        "height": 180
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-whirlwind",
+    "equip1": {
+      "range": "B_whirlwind!A7:D19",
+      "height": 1700
+    },
+    "equip2": {
+      "range": "B_whirlwind!A22:D34",
+      "height": 1700
+    },
+    "rune": {
+      "range": "B_whirlwind!A37:D41",
+      "height": 400
+    },
+    "paragon": {
+      "range": "B_whirlwind!A44:C54",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "B_whirlwind!A57:C58",
+      "height": 180
     }
   },
   "hota": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota",
-    "sections": {
-      "equip1": {
-        "range": "B_hota!A7:D19",
-        "height": 2100
-      },
-      "equip2": {
-        "range": "B_hota!A22:D34",
-        "height": 1900
-      },
-      "rune": {
-        "range": "B_hota!A37:D41",
-        "height": 400
-      },
-      "paragon": {
-        "range": "B_hota!A44:C54",
-        "height": 1000
-      },
-      "class_mechanic": {
-        "range": "B_hota!A57:C58",
-        "height": 180
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota",
+    "equip1": {
+      "range": "B_hota!A7:D19",
+      "height": 2100
+    },
+    "equip2": {
+      "range": "B_hota!A22:D34",
+      "height": 1900
+    },
+    "rune": {
+      "range": "B_hota!A37:D41",
+      "height": 400
+    },
+    "paragon": {
+      "range": "B_hota!A44:C54",
+      "height": 1000
+    },
+    "class_mechanic": {
+      "range": "B_hota!A57:C58",
+      "height": 180
     }
   },
   "hota-leveling": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota-leveling",
-    "sections": {
-      "equip1": {
-        "range": "B_hota-leveling!A7:E19",
-        "height": 1400
-      },
-      "rune": {
-        "range": "B_hota-leveling!A22:D26",
-        "height": 380
-      },
-      "class_mechanic": {
-        "range": "B_hota-leveling!A29:C30",
-        "height": 180
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota-leveling",
+    "equip1": {
+      "range": "B_hota-leveling!A7:E19",
+      "height": 1400
+    },
+    "rune": {
+      "range": "B_hota-leveling!A22:D26",
+      "height": 380
+    },
+    "class_mechanic": {
+      "range": "B_hota-leveling!A29:C30",
+      "height": 180
     }
   },
   "hota-earthquake": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota-earthquake",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota-earthquake"
   },
   "upheaval": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-upheaval",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-upheaval"
   },
   "leapquake": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-leapquake",
-    "sections": {
-      "equip1": {
-        "range": "B_leapquake!A7:D19",
-        "height": 2050
-      },
-      "equip2": {
-        "range": "B_leapquake!A22:D34",
-        "height": 1800
-      },
-      "rune": {
-        "range": "B_leapquake!A37:D41",
-        "height": 440
-      },
-      "paragon": {
-        "range": "B_leapquake!A44:C54",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "B_leapquake!A57:C58",
-        "height": 180
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-leapquake",
+    "equip1": {
+      "range": "B_leapquake!A7:D19",
+      "height": 2050
+    },
+    "equip2": {
+      "range": "B_leapquake!A22:D34",
+      "height": 1800
+    },
+    "rune": {
+      "range": "B_leapquake!A37:D41",
+      "height": 440
+    },
+    "paragon": {
+      "range": "B_leapquake!A44:C54",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "B_leapquake!A57:C58",
+      "height": 180
     }
   },
   "mighty-throw": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-mighty-throw",
-    "sections": {
-      "equip1": {
-        "range": "B_mighty-throw!A7:D19",
-        "height": 2050
-      },
-      "equip2": {
-        "range": "B_mighty-throw!A22:D34",
-        "height": 1800
-      },
-      "rune": {
-        "range": "B_mighty-throw!A37:D41",
-        "height": 440
-      },
-      "paragon": {
-        "range": "B_mighty-throw!A44:C54",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "B_mighty-throw!A57:C58",
-        "height": 180
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-mighty-throw",
+    "equip1": {
+      "range": "B_mighty-throw!A7:D19",
+      "height": 2050
+    },
+    "equip2": {
+      "range": "B_mighty-throw!A22:D34",
+      "height": 1800
+    },
+    "rune": {
+      "range": "B_mighty-throw!A37:D41",
+      "height": 440
+    },
+    "paragon": {
+      "range": "B_mighty-throw!A44:C54",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "B_mighty-throw!A57:C58",
+      "height": 180
     }
   },
   "zdps": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-zdps",
-    "sections": {
-      "equip1": {
-        "range": "P_zdps!A7:D17",
-        "height": 1600
-      },
-      "equip2": {
-        "range": "P_zdps!A20:D30",
-        "height": 1400
-      },
-      "rune": {
-        "range": "P_zdps!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "P_zdps!A40:C50",
-        "height": 1000
-      },
-      "class_mechanic": {
-        "range": "P_zdps!A53:C54",
-        "height": 180
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-zdps",
+    "equip1": {
+      "range": "P_zdps!A7:D17",
+      "height": 1600
+    },
+    "equip2": {
+      "range": "P_zdps!A20:D30",
+      "height": 1400
+    },
+    "rune": {
+      "range": "P_zdps!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "P_zdps!A40:C50",
+      "height": 1000
+    },
+    "class_mechanic": {
+      "range": "P_zdps!A53:C54",
+      "height": 180
     }
   },
   "pulverize": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-pulverize",
-    "sections": {
-      "equip1": {
-        "range": "D_pulverize!A7:D17",
-        "height": 1700
-      },
-      "equip2": {
-        "range": "D_pulverize!A20:D30",
-        "height": 1450
-      },
-      "rune": {
-        "range": "D_pulverize!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "D_pulverize!A40:C50",
-        "height": 1150
-      },
-      "class_mechanic": {
-        "range": "D_pulverize!A53:C57",
-        "height": 350
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-pulverize",
+    "equip1": {
+      "range": "D_pulverize!A7:D17",
+      "height": 1700
+    },
+    "equip2": {
+      "range": "D_pulverize!A20:D30",
+      "height": 1450
+    },
+    "rune": {
+      "range": "D_pulverize!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "D_pulverize!A40:C50",
+      "height": 1150
+    },
+    "class_mechanic": {
+      "range": "D_pulverize!A53:C57",
+      "height": 350
     }
   },
   "pulverize-leveling": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-pulverize-leveling",
-    "sections": {
-      "equip1": {
-        "range": "D_pulverize-leveling!A7:E17",
-        "height": 1100
-      },
-      "rune": {
-        "range": "D_pulverize-leveling!A20:D24",
-        "height": 380
-      },
-      "class_mechanic": {
-        "range": "D_pulverize-leveling!A27:C31",
-        "height": 350
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-pulverize-leveling",
+    "equip1": {
+      "range": "D_pulverize-leveling!A7:E17",
+      "height": 1100
+    },
+    "rune": {
+      "range": "D_pulverize-leveling!A20:D24",
+      "height": 380
+    },
+    "class_mechanic": {
+      "range": "D_pulverize-leveling!A27:C31",
+      "height": 350
     }
   },
   "shred": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-shred",
-    "sections": {
-      "equip1": {
-        "range": "D_shred!A7:D17",
-        "height": 1550
-      },
-      "equip2": {
-        "range": "D_shred!A20:D30",
-        "height": 1550
-      },
-      "rune": {
-        "range": "D_shred!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "D_shred!A40:C50",
-        "height": 1150
-      },
-      "class_mechanic": {
-        "range": "D_shred!A53:C57",
-        "height": 320
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-shred",
+    "equip1": {
+      "range": "D_shred!A7:D17",
+      "height": 1550
+    },
+    "equip2": {
+      "range": "D_shred!A20:D30",
+      "height": 1550
+    },
+    "rune": {
+      "range": "D_shred!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "D_shred!A40:C50",
+      "height": 1150
+    },
+    "class_mechanic": {
+      "range": "D_shred!A53:C57",
+      "height": 320
     }
   },
   "tornado": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-tornado",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-tornado"
   },
   "lightning-storm": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-lightning-storm",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-lightning-storm"
   },
   "fleshrender": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-fleshrender",
-    "sections": {
-      "equip1": {
-        "range": "D_fleshrender!A7:D17",
-        "height": 1800
-      },
-      "equip2": {
-        "range": "D_fleshrender!A20:D30",
-        "height": 1500
-      },
-      "rune": {
-        "range": "D_fleshrender!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "D_fleshrender!A40:C50",
-        "height": 1150
-      },
-      "class_mechanic": {
-        "range": "D_fleshrender!A53:C57",
-        "height": 350
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-fleshrender",
+    "equip1": {
+      "range": "D_fleshrender!A7:D17",
+      "height": 1800
+    },
+    "equip2": {
+      "range": "D_fleshrender!A20:D30",
+      "height": 1500
+    },
+    "rune": {
+      "range": "D_fleshrender!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "D_fleshrender!A40:C50",
+      "height": 1150
+    },
+    "class_mechanic": {
+      "range": "D_fleshrender!A53:C57",
+      "height": 350
     }
   },
   "companion": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-companion",
-    "sections": {
-      "equip1": {
-        "range": "D_companion!A7:D17",
-        "height": 1700
-      },
-      "equip2": {
-        "range": "D_companion!A20:D30",
-        "height": 1450
-      },
-      "rune": {
-        "range": "D_companion!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "D_companion!A40:C50",
-        "height": 1050
-      },
-      "class_mechanic": {
-        "range": "D_companion!A53:C57",
-        "height": 400
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-companion",
+    "equip1": {
+      "range": "D_companion!A7:D17",
+      "height": 1700
+    },
+    "equip2": {
+      "range": "D_companion!A20:D30",
+      "height": 1450
+    },
+    "rune": {
+      "range": "D_companion!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "D_companion!A40:C50",
+      "height": 1050
+    },
+    "class_mechanic": {
+      "range": "D_companion!A53:C57",
+      "height": 400
     }
   },
   "boulder": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-boulder",
-    "sections": {
-      "equip1": {
-        "range": "D_boulder!A7:D17",
-        "height": 1400
-      },
-      "equip2": {
-        "range": "D_boulder!A20:D30",
-        "height": 1400
-      },
-      "rune": {
-        "range": "D_boulder!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "D_boulder!A40:C50",
-        "height": 1150
-      },
-      "class_mechanic": {
-        "range": "D_boulder!A53:C57",
-        "height": 320
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-boulder",
+    "equip1": {
+      "range": "D_boulder!A7:D17",
+      "height": 1400
+    },
+    "equip2": {
+      "range": "D_boulder!A20:D30",
+      "height": 1400
+    },
+    "rune": {
+      "range": "D_boulder!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "D_boulder!A40:C50",
+      "height": 1150
+    },
+    "class_mechanic": {
+      "range": "D_boulder!A53:C57",
+      "height": 320
     }
   },
   "landslide": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-landslide",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-landslide"
   },
   "cataclysm": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-cataclysm",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-cataclysm"
   },
   "pure-summoner-leveling": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-pure-summoner-leveling",
-    "sections": {
-      "equip1": {
-        "range": "N_pure-summoner-leveling!A7:E17",
-        "height": 1200
-      },
-      "rune": {
-        "range": "N_pure-summoner-leveling!A20:D24",
-        "height": 380
-      },
-      "class_mechanic": {
-        "range": "N_pure-summoner-leveling!A27:D30",
-        "height": 260
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-pure-summoner-leveling",
+    "equip1": {
+      "range": "N_pure-summoner-leveling!A7:E17",
+      "height": 1200
+    },
+    "rune": {
+      "range": "N_pure-summoner-leveling!A20:D24",
+      "height": 380
+    },
+    "class_mechanic": {
+      "range": "N_pure-summoner-leveling!A27:D30",
+      "height": 260
     }
   },
   "arch-mages-summoner": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-arch-mages-summoner",
-    "sections": {
-      "equip1": {
-        "range": "N_arch-mages-summoner!A7:D17",
-        "height": 1750
-      },
-      "equip2": {
-        "range": "N_arch-mages-summoner!A20:D30",
-        "height": 1500
-      },
-      "rune": {
-        "range": "N_arch-mages-summoner!A33:D37",
-        "height": 440
-      },
-      "paragon": {
-        "range": "N_arch-mages-summoner!A40:C50",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "N_arch-mages-summoner!A53:D56",
-        "height": 400
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-arch-mages-summoner",
+    "equip1": {
+      "range": "N_arch-mages-summoner!A7:D17",
+      "height": 1750
+    },
+    "equip2": {
+      "range": "N_arch-mages-summoner!A20:D30",
+      "height": 1500
+    },
+    "rune": {
+      "range": "N_arch-mages-summoner!A33:D37",
+      "height": 440
+    },
+    "paragon": {
+      "range": "N_arch-mages-summoner!A40:C50",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "N_arch-mages-summoner!A53:D56",
+      "height": 400
     }
   },
   "golem-summoner": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-golem-summoner",
-    "sections": {
-      "equip1": {
-        "range": "N_golem-summoner!A7:D17",
-        "height": 1850
-      },
-      "equip2": {
-        "range": "N_golem-summoner!A20:D30",
-        "height": 1550
-      },
-      "rune": {
-        "range": "N_golem-summoner!A33:D37",
-        "height": 440
-      },
-      "paragon": {
-        "range": "N_golem-summoner!A40:C50",
-        "height": 1200
-      },
-      "class_mechanic": {
-        "range": "N_golem-summoner!A53:D56",
-        "height": 400
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-golem-summoner",
+    "equip1": {
+      "range": "N_golem-summoner!A7:D17",
+      "height": 1850
+    },
+    "equip2": {
+      "range": "N_golem-summoner!A20:D30",
+      "height": 1550
+    },
+    "rune": {
+      "range": "N_golem-summoner!A33:D37",
+      "height": 440
+    },
+    "paragon": {
+      "range": "N_golem-summoner!A40:C50",
+      "height": 1200
+    },
+    "class_mechanic": {
+      "range": "N_golem-summoner!A53:D56",
+      "height": 400
     }
   },
   "bone-spear": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-bone-spear",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-bone-spear"
   },
   "blood-surge": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-blood-surge",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-blood-surge"
   },
   "blood-lance": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-blood-lance",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-blood-lance"
   },
   "sever": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-sever",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-sever"
   },
   "bone-spirit": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-bone-spirit",
-    "sections": {
-      "equip1": {
-        "range": "N_bone-spirit!A7:D17",
-        "height": 1600
-      },
-      "equip2": {
-        "range": "N_bone-spirit!A20:D30",
-        "height": 1500
-      },
-      "rune": {
-        "range": "N_bone-spirit!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "N_bone-spirit!A40:C50",
-        "height": 1200
-      },
-      "class_mechanic": {
-        "range": "N_bone-spirit!A53:D56",
-        "height": 300
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-bone-spirit",
+    "equip1": {
+      "range": "N_bone-spirit!A7:D17",
+      "height": 1600
+    },
+    "equip2": {
+      "range": "N_bone-spirit!A20:D30",
+      "height": 1500
+    },
+    "rune": {
+      "range": "N_bone-spirit!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "N_bone-spirit!A40:C50",
+      "height": 1200
+    },
+    "class_mechanic": {
+      "range": "N_bone-spirit!A53:D56",
+      "height": 300
     }
   },
   "blood-wave": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-blood-wave",
-    "sections": {
-      "equip1": {
-        "range": "N_blood-wave!A7:D17",
-        "height": 1700
-      },
-      "equip2": {
-        "range": "N_blood-wave!A20:D30",
-        "height": 1450
-      },
-      "rune": {
-        "range": "N_blood-wave!A33:D37",
-        "height": 440
-      },
-      "paragon": {
-        "range": "N_blood-wave!A40:C50",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "N_blood-wave!A53:D56",
-        "height": 300
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-blood-wave",
+    "equip1": {
+      "range": "N_blood-wave!A7:D17",
+      "height": 1700
+    },
+    "equip2": {
+      "range": "N_blood-wave!A20:D30",
+      "height": 1450
+    },
+    "rune": {
+      "range": "N_blood-wave!A33:D37",
+      "height": 440
+    },
+    "paragon": {
+      "range": "N_blood-wave!A40:C50",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "N_blood-wave!A53:D56",
+      "height": 300
     }
   },
   "shadowblight": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-shadowblight",
-    "sections": {
-      "equip1": {
-        "range": "N_shadowblight!A7:D17",
-        "height": 1700
-      },
-      "equip2": {
-        "range": "N_shadowblight!A20:D30",
-        "height": 1400
-      },
-      "rune": {
-        "range": "N_shadowblight!A33:D37",
-        "height": 440
-      },
-      "paragon": {
-        "range": "N_shadowblight!A40:C50",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "N_shadowblight!A53:D56",
-        "height": 300
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-shadowblight",
+    "equip1": {
+      "range": "N_shadowblight!A7:D17",
+      "height": 1700
+    },
+    "equip2": {
+      "range": "N_shadowblight!A20:D30",
+      "height": 1400
+    },
+    "rune": {
+      "range": "N_shadowblight!A33:D37",
+      "height": 440
+    },
+    "paragon": {
+      "range": "N_shadowblight!A40:C50",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "N_shadowblight!A53:D56",
+      "height": 300
     }
   },
   "affliction": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-affliction",
-    "sections": {
-      "equip1": {
-        "range": "N_affliction!A7:D17",
-        "height": 1700
-      },
-      "equip2": {
-        "range": "N_affliction!A20:D30",
-        "height": 1400
-      },
-      "rune": {
-        "range": "N_affliction!A33:D37",
-        "height": 440
-      },
-      "paragon": {
-        "range": "N_affliction!A40:C50",
-        "height": 1000
-      },
-      "class_mechanic": {
-        "range": "N_affliction!A53:D56",
-        "height": 300
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-affliction",
+    "equip1": {
+      "range": "N_affliction!A7:D17",
+      "height": 1700
+    },
+    "equip2": {
+      "range": "N_affliction!A20:D30",
+      "height": 1400
+    },
+    "rune": {
+      "range": "N_affliction!A33:D37",
+      "height": 440
+    },
+    "paragon": {
+      "range": "N_affliction!A40:C50",
+      "height": 1000
+    },
+    "class_mechanic": {
+      "range": "N_affliction!A53:D56",
+      "height": 300
     }
   },
   "heartseeker": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-heartseeker",
-    "sections": {
-      "equip1": {
-        "range": "R_heartseeker!A7:D18",
-        "height": 1900
-      },
-      "equip2": {
-        "range": "R_heartseeker!A21:D32",
-        "height": 1700
-      },
-      "rune": {
-        "range": "R_heartseeker!A35:D39",
-        "height": 440
-      },
-      "paragon": {
-        "range": "R_heartseeker!A42:C52",
-        "height": 1160
-      },
-      "class_mechanic": {
-        "range": "R_heartseeker!A55:C56",
-        "height": 170
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-heartseeker",
+    "equip1": {
+      "range": "R_heartseeker!A7:D18",
+      "height": 1900
+    },
+    "equip2": {
+      "range": "R_heartseeker!A21:D32",
+      "height": 1700
+    },
+    "rune": {
+      "range": "R_heartseeker!A35:D39",
+      "height": 440
+    },
+    "paragon": {
+      "range": "R_heartseeker!A42:C52",
+      "height": 1160
+    },
+    "class_mechanic": {
+      "range": "R_heartseeker!A55:C56",
+      "height": 170
     }
   },
   "flurry": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-flurry",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-flurry"
   },
   "twisting-blades": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-twisting-blades",
-    "sections": {
-      "equip1": {
-        "range": "R_twisting-blades!A7:D18",
-        "height": 2000
-      },
-      "equip2": {
-        "range": "R_twisting-blades!A21:D32",
-        "height": 1750
-      },
-      "rune": {
-        "range": "R_twisting-blades!A35:D39",
-        "height": 440
-      },
-      "paragon": {
-        "range": "R_twisting-blades!A42:C52",
-        "height": 1060
-      },
-      "class_mechanic": {
-        "range": "R_twisting-blades!A55:C56",
-        "height": 170
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-twisting-blades",
+    "equip1": {
+      "range": "R_twisting-blades!A7:D18",
+      "height": 2000
+    },
+    "equip2": {
+      "range": "R_twisting-blades!A21:D32",
+      "height": 1750
+    },
+    "rune": {
+      "range": "R_twisting-blades!A35:D39",
+      "height": 440
+    },
+    "paragon": {
+      "range": "R_twisting-blades!A42:C52",
+      "height": 1060
+    },
+    "class_mechanic": {
+      "range": "R_twisting-blades!A55:C56",
+      "height": 170
     }
   },
   "rapid-fire": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-rapid-fire",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-rapid-fire"
   },
   "barrage": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-barrage",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-barrage"
   },
   "penetrating-shot": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-penetrating-shot",
-    "sections": {
-      "equip1": {
-        "range": "R_penetrating-shot!A7:D18",
-        "height": 1900
-      },
-      "equip2": {
-        "range": "R_penetrating-shot!A21:D32",
-        "height": 1700
-      },
-      "rune": {
-        "range": "R_penetrating-shot!A35:D39",
-        "height": 440
-      },
-      "paragon": {
-        "range": "R_penetrating-shot!A42:C52",
-        "height": 1160
-      },
-      "class_mechanic": {
-        "range": "R_penetrating-shot!A55:C56",
-        "height": 170
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-penetrating-shot",
+    "equip1": {
+      "range": "R_penetrating-shot!A7:D18",
+      "height": 1900
+    },
+    "equip2": {
+      "range": "R_penetrating-shot!A21:D32",
+      "height": 1700
+    },
+    "rune": {
+      "range": "R_penetrating-shot!A35:D39",
+      "height": 440
+    },
+    "paragon": {
+      "range": "R_penetrating-shot!A42:C52",
+      "height": 1160
+    },
+    "class_mechanic": {
+      "range": "R_penetrating-shot!A55:C56",
+      "height": 170
     }
   },
   "dance-of-knives": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-dance-of-knives",
-    "sections": {
-      "equip1": {
-        "range": "R_dance-of-knives!A7:D18",
-        "height": 2000
-      },
-      "equip2": {
-        "range": "R_dance-of-knives!A21:D32",
-        "height": 1750
-      },
-      "rune": {
-        "range": "R_dance-of-knives!A35:D39",
-        "height": 440
-      },
-      "paragon": {
-        "range": "R_dance-of-knives!A42:C52",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "R_dance-of-knives!A55:C56",
-        "height": 170
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-dance-of-knives",
+    "equip1": {
+      "range": "R_dance-of-knives!A7:D18",
+      "height": 2000
+    },
+    "equip2": {
+      "range": "R_dance-of-knives!A21:D32",
+      "height": 1750
+    },
+    "rune": {
+      "range": "R_dance-of-knives!A35:D39",
+      "height": 440
+    },
+    "paragon": {
+      "range": "R_dance-of-knives!A42:C52",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "R_dance-of-knives!A55:C56",
+      "height": 170
     }
   },
   "dance-of-knives-leveling": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-dance-of-knives-leveling",
-    "sections": {
-      "equip1": {
-        "range": "R_dance-of-knives-leveling!A7:E18",
-        "height": 1300
-      },
-      "rune": {
-        "range": "R_dance-of-knives-leveling!A21:D25",
-        "height": 380
-      },
-      "class_mechanic": {
-        "range": "R_dance-of-knives-leveling!A28:C29",
-        "height": 170
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-dance-of-knives-leveling",
+    "equip1": {
+      "range": "R_dance-of-knives-leveling!A7:E18",
+      "height": 1300
+    },
+    "rune": {
+      "range": "R_dance-of-knives-leveling!A21:D25",
+      "height": 380
+    },
+    "class_mechanic": {
+      "range": "R_dance-of-knives-leveling!A28:C29",
+      "height": 170
     }
   },
   "death-trap": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-death-trap",
-    "sections": {
-      "equip1": {
-        "range": "R_death-trap!A7:D18",
-        "height": 1900
-      },
-      "equip2": {
-        "range": "R_death-trap!A21:D32",
-        "height": 1700
-      },
-      "rune": {
-        "range": "R_death-trap!A35:D39",
-        "height": 440
-      },
-      "paragon": {
-        "range": "R_death-trap!A42:C52",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "R_death-trap!A55:C56",
-        "height": 170
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-death-trap",
+    "equip1": {
+      "range": "R_death-trap!A7:D18",
+      "height": 1900
+    },
+    "equip2": {
+      "range": "R_death-trap!A21:D32",
+      "height": 1700
+    },
+    "rune": {
+      "range": "R_death-trap!A35:D39",
+      "height": 440
+    },
+    "paragon": {
+      "range": "R_death-trap!A42:C52",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "R_death-trap!A55:C56",
+      "height": 170
     }
   },
   "rain-of-arrows": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-rain-of-arrows",
-    "sections": {
-      "equip1": {
-        "range": "R_rain-of-arrows!A7:D18",
-        "height": 1900
-      },
-      "equip2": {
-        "range": "R_rain-of-arrows!A21:D32",
-        "height": 1600
-      },
-      "rune": {
-        "range": "R_rain-of-arrows!A35:D39",
-        "height": 400
-      },
-      "paragon": {
-        "range": "R_rain-of-arrows!A42:C52",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "R_rain-of-arrows!A55:C56",
-        "height": 170
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-rain-of-arrows",
+    "equip1": {
+      "range": "R_rain-of-arrows!A7:D18",
+      "height": 1900
+    },
+    "equip2": {
+      "range": "R_rain-of-arrows!A21:D32",
+      "height": 1600
+    },
+    "rune": {
+      "range": "R_rain-of-arrows!A35:D39",
+      "height": 400
+    },
+    "paragon": {
+      "range": "R_rain-of-arrows!A42:C52",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "R_rain-of-arrows!A55:C56",
+      "height": 170
     }
   },
   "fire-bolt": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-fire-bolt",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-fire-bolt"
   },
   "fireball": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-fireball",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-fireball"
   },
   "incinerate": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-incinerate",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-incinerate"
   },
   "hydra": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-hydra",
-    "sections": {
-      "equip1": {
-        "range": "S_hydra!A7:D17",
-        "height": 1700
-      },
-      "equip2": {
-        "range": "S_hydra!A20:D30",
-        "height": 1500
-      },
-      "rune": {
-        "range": "S_hydra!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "S_hydra!A40:C50",
-        "height": 1150
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-hydra",
+    "equip1": {
+      "range": "S_hydra!A7:D17",
+      "height": 1700
+    },
+    "equip2": {
+      "range": "S_hydra!A20:D30",
+      "height": 1500
+    },
+    "rune": {
+      "range": "S_hydra!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "S_hydra!A40:C50",
+      "height": 1150
     }
   },
   "meteor": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-meteor",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-meteor"
   },
   "iceshards": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-iceshards",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-iceshards"
   },
   "frozen-orb": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-frozen-orb",
-    "sections": {
-      "equip1": {
-        "range": "S_frozen-orb!A7:D17",
-        "height": 1750
-      },
-      "equip2": {
-        "range": "S_frozen-orb!A20:D30",
-        "height": 1500
-      },
-      "rune": {
-        "range": "S_frozen-orb!A33:D37",
-        "height": 450
-      },
-      "paragon": {
-        "range": "S_frozen-orb!A40:C50",
-        "height": 1200
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-frozen-orb",
+    "equip1": {
+      "range": "S_frozen-orb!A7:D17",
+      "height": 1750
+    },
+    "equip2": {
+      "range": "S_frozen-orb!A20:D30",
+      "height": 1500
+    },
+    "rune": {
+      "range": "S_frozen-orb!A33:D37",
+      "height": 450
+    },
+    "paragon": {
+      "range": "S_frozen-orb!A40:C50",
+      "height": 1200
     }
   },
   "blizzard": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-blizzard",
-    "sections": {
-      "equip1": {
-        "range": "S_blizzard!A7:D17",
-        "height": 1750
-      },
-      "equip2": {
-        "range": "S_blizzard!A20:D30",
-        "height": 1450
-      },
-      "rune": {
-        "range": "S_blizzard!A33:D37",
-        "height": 450
-      },
-      "paragon": {
-        "range": "S_blizzard!A40:C50",
-        "height": 1150
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-blizzard",
+    "equip1": {
+      "range": "S_blizzard!A7:D17",
+      "height": 1750
+    },
+    "equip2": {
+      "range": "S_blizzard!A20:D30",
+      "height": 1450
+    },
+    "rune": {
+      "range": "S_blizzard!A33:D37",
+      "height": 450
+    },
+    "paragon": {
+      "range": "S_blizzard!A40:C50",
+      "height": 1150
     }
   },
   "chain-lightning": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-chain-lightning",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-chain-lightning"
   },
   "ball-lightning": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-ball-lightning",
-    "sections": {
-      "equip1": {
-        "range": "S_ball-lightning!A7:D17",
-        "height": 1600
-      },
-      "equip2": {
-        "range": "S_ball-lightning!A20:D30",
-        "height": 1600
-      },
-      "rune": {
-        "range": "S_ball-lightning!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "S_ball-lightning!A40:C50",
-        "height": 1200
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-ball-lightning",
+    "equip1": {
+      "range": "S_ball-lightning!A7:D17",
+      "height": 1600
+    },
+    "equip2": {
+      "range": "S_ball-lightning!A20:D30",
+      "height": 1600
+    },
+    "rune": {
+      "range": "S_ball-lightning!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "S_ball-lightning!A40:C50",
+      "height": 1200
     }
   },
   "ball-lightning-leveling": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-ball-lightning-leveling",
-    "sections": {
-      "equip1": {
-        "range": "S_ball-lightning-leveling!A7:E17",
-        "height": 1200
-      },
-      "rune": {
-        "range": "S_ball-lightning-leveling!A20:D24",
-        "height": 380
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-ball-lightning-leveling",
+    "equip1": {
+      "range": "S_ball-lightning-leveling!A7:E17",
+      "height": 1200
+    },
+    "rune": {
+      "range": "S_ball-lightning-leveling!A20:D24",
+      "height": 380
     }
   },
   "crackling-energy": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-crackling-energy",
-    "sections": {
-      "equip1": {
-        "range": "S_crackling-energy!A7:D17",
-        "height": 1800
-      },
-      "equip2": {
-        "range": "S_crackling-energy!A20:D30",
-        "height": 1600
-      },
-      "rune": {
-        "range": "S_crackling-energy!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "S_crackling-energy!A40:C50",
-        "height": 1200
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-crackling-energy",
+    "equip1": {
+      "range": "S_crackling-energy!A7:D17",
+      "height": 1800
+    },
+    "equip2": {
+      "range": "S_crackling-energy!A20:D30",
+      "height": 1600
+    },
+    "rune": {
+      "range": "S_crackling-energy!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "S_crackling-energy!A40:C50",
+      "height": 1200
     }
   },
   "beast-strike": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-beast-strike",
-    "sections": {
-      "equip1": {
-        "range": "SB_beast-strike!A7:D16",
-        "height": 1650
-      },
-      "equip2": {
-        "range": "SB_beast-strike!A19:D28",
-        "height": 1400
-      },
-      "rune": {
-        "range": "SB_beast-strike!A31:D35",
-        "height": 440
-      },
-      "paragon": {
-        "range": "SB_beast-strike!A38:C48",
-        "height": 1220
-      },
-      "class_mechanic": {
-        "range": "SB_beast-strike!A51:C53",
-        "height": 300
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-beast-strike",
+    "equip1": {
+      "range": "SB_beast-strike!A7:D16",
+      "height": 1650
+    },
+    "equip2": {
+      "range": "SB_beast-strike!A19:D28",
+      "height": 1400
+    },
+    "rune": {
+      "range": "SB_beast-strike!A31:D35",
+      "height": 440
+    },
+    "paragon": {
+      "range": "SB_beast-strike!A38:C48",
+      "height": 1220
+    },
+    "class_mechanic": {
+      "range": "SB_beast-strike!A51:C53",
+      "height": 300
     }
   },
   "rake": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-rake",
-    "sections": {
-      "equip1": {
-        "range": "SB_rake!A7:D16",
-        "height": 1650
-      },
-      "equip2": {
-        "range": "SB_rake!A19:D28",
-        "height": 1400
-      },
-      "rune": {
-        "range": "SB_rake!A31:D35",
-        "height": 440
-      },
-      "paragon": {
-        "range": "SB_rake!A38:C48",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "SB_rake!A51:C53",
-        "height": 280
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-rake",
+    "equip1": {
+      "range": "SB_rake!A7:D16",
+      "height": 1650
+    },
+    "equip2": {
+      "range": "SB_rake!A19:D28",
+      "height": 1400
+    },
+    "rune": {
+      "range": "SB_rake!A31:D35",
+      "height": 440
+    },
+    "paragon": {
+      "range": "SB_rake!A38:C48",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "SB_rake!A51:C53",
+      "height": 280
     }
   },
   "rushing-claw": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-rushing-claw",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-rushing-claw"
   },
   "evade-eagle": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-evade-eagle",
-    "sections": {
-      "equip1": {
-        "range": "SB_evade-eagle!A7:D16",
-        "height": 1600
-      },
-      "equip2": {
-        "range": "SB_evade-eagle!A19:D28",
-        "height": 1400
-      },
-      "rune": {
-        "range": "SB_evade-eagle!A31:D35",
-        "height": 400
-      },
-      "paragon": {
-        "range": "SB_evade-eagle!A38:C48",
-        "height": 1200
-      },
-      "class_mechanic": {
-        "range": "SB_evade-eagle!A51:C53",
-        "height": 300
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-evade-eagle",
+    "equip1": {
+      "range": "SB_evade-eagle!A7:D16",
+      "height": 1600
+    },
+    "equip2": {
+      "range": "SB_evade-eagle!A19:D28",
+      "height": 1400
+    },
+    "rune": {
+      "range": "SB_evade-eagle!A31:D35",
+      "height": 400
+    },
+    "paragon": {
+      "range": "SB_evade-eagle!A38:C48",
+      "height": 1200
+    },
+    "class_mechanic": {
+      "range": "SB_evade-eagle!A51:C53",
+      "height": 300
     }
   },
   "evade-eagle-leveling": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-evade-eagle-leveling",
-    "sections": {
-      "equip1": {
-        "range": "SB_evade-eagle-leveling!A7:E16",
-        "height": 1100
-      },
-      "rune": {
-        "range": "SB_evade-eagle-leveling!A19:D23",
-        "height": 400
-      },
-      "class_mechanic": {
-        "range": "SB_evade-eagle-leveling!A26:C28",
-        "height": 280
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-evade-eagle-leveling",
+    "equip1": {
+      "range": "SB_evade-eagle-leveling!A7:E16",
+      "height": 1100
+    },
+    "rune": {
+      "range": "SB_evade-eagle-leveling!A19:D23",
+      "height": 400
+    },
+    "class_mechanic": {
+      "range": "SB_evade-eagle-leveling!A26:C28",
+      "height": 280
     }
   },
   "quill-volley": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-quill-volley",
-    "sections": {
-      "equip1": {
-        "range": "SB_quill-volley!A7:D16",
-        "height": 1600
-      },
-      "equip2": {
-        "range": "SB_quill-volley!A19:D28",
-        "height": 1400
-      },
-      "rune": {
-        "range": "SB_quill-volley!A31:D35",
-        "height": 440
-      },
-      "paragon": {
-        "range": "SB_quill-volley!A38:C48",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "SB_quill-volley!A51:C53",
-        "height": 280
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-quill-volley",
+    "equip1": {
+      "range": "SB_quill-volley!A7:D16",
+      "height": 1600
+    },
+    "equip2": {
+      "range": "SB_quill-volley!A19:D28",
+      "height": 1400
+    },
+    "rune": {
+      "range": "SB_quill-volley!A31:D35",
+      "height": 440
+    },
+    "paragon": {
+      "range": "SB_quill-volley!A38:C48",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "SB_quill-volley!A51:C53",
+      "height": 280
     }
   },
   "razor-wings": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-razor-wings",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-razor-wings"
   },
   "crushing-hand": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-crushing-hand",
-    "sections": {
-      "equip1": {
-        "range": "SB_crushing-hand!A7:D16",
-        "height": 1550
-      },
-      "equip2": {
-        "range": "SB_crushing-hand!A19:D28",
-        "height": 1300
-      },
-      "rune": {
-        "range": "SB_crushing-hand!A31:D35",
-        "height": 440
-      },
-      "paragon": {
-        "range": "SB_crushing-hand!A38:C48",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "SB_crushing-hand!A51:C53",
-        "height": 280
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-crushing-hand",
+    "equip1": {
+      "range": "SB_crushing-hand!A7:D16",
+      "height": 1550
+    },
+    "equip2": {
+      "range": "SB_crushing-hand!A19:D28",
+      "height": 1300
+    },
+    "rune": {
+      "range": "SB_crushing-hand!A31:D35",
+      "height": 440
+    },
+    "paragon": {
+      "range": "SB_crushing-hand!A38:C48",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "SB_crushing-hand!A51:C53",
+      "height": 280
     }
   },
   "payback": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-payback",
-    "sections": {
-      "equip1": {
-        "range": "SB_payback!A7:D16",
-        "height": 1550
-      },
-      "equip2": {
-        "range": "SB_payback!A19:D28",
-        "height": 1300
-      },
-      "rune": {
-        "range": "SB_payback!A31:D35",
-        "height": 400
-      },
-      "paragon": {
-        "range": "SB_payback!A38:C48",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "SB_payback!A51:C53",
-        "height": 280
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-payback",
+    "equip1": {
+      "range": "SB_payback!A7:D16",
+      "height": 1550
+    },
+    "equip2": {
+      "range": "SB_payback!A19:D28",
+      "height": 1300
+    },
+    "rune": {
+      "range": "SB_payback!A31:D35",
+      "height": 400
+    },
+    "paragon": {
+      "range": "SB_payback!A38:C48",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "SB_payback!A51:C53",
+      "height": 280
     }
   },
   "touch-of-death": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-touch-of-death",
-    "sections": {}
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-touch-of-death"
   },
   "wing-strikes": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-wing-strikes",
-    "sections": {
-      "equip1": {
-        "range": "P_wing-strikes!A7:D17",
-        "height": 1850
-      },
-      "equip2": {
-        "range": "P_wing-strikes!A20:D30",
-        "height": 1600
-      },
-      "rune": {
-        "range": "P_wing-strikes!A33:D37",
-        "height": 450
-      },
-      "paragon": {
-        "range": "P_wing-strikes!A40:C50",
-        "height": 1200
-      },
-      "class_mechanic": {
-        "range": "P_wing-strikes!A53:C54",
-        "height": 180
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-wing-strikes",
+    "equip1": {
+      "range": "P_wing-strikes!A7:D17",
+      "height": 1850
+    },
+    "equip2": {
+      "range": "P_wing-strikes!A20:D30",
+      "height": 1600
+    },
+    "rune": {
+      "range": "P_wing-strikes!A33:D37",
+      "height": 450
+    },
+    "paragon": {
+      "range": "P_wing-strikes!A40:C50",
+      "height": 1200
+    },
+    "class_mechanic": {
+      "range": "P_wing-strikes!A53:C54",
+      "height": 180
     }
   },
   "judgement": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-judgement",
-    "sections": {
-      "equip1": {
-        "range": "P_judgement!A7:D17",
-        "height": 1800
-      },
-      "equip2": {
-        "range": "P_judgement!A20:D30",
-        "height": 1550
-      },
-      "rune": {
-        "range": "P_judgement!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "P_judgement!A40:C50",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "P_judgement!A53:C54",
-        "height": 200
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-judgement",
+    "equip1": {
+      "range": "P_judgement!A7:D17",
+      "height": 1800
+    },
+    "equip2": {
+      "range": "P_judgement!A20:D30",
+      "height": 1550
+    },
+    "rune": {
+      "range": "P_judgement!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "P_judgement!A40:C50",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "P_judgement!A53:C54",
+      "height": 200
     }
   },
   "brandish": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-brandish",
-    "sections": {
-      "equip1": {
-        "range": "P_brandish!A7:D17",
-        "height": 1800
-      },
-      "equip2": {
-        "range": "P_brandish!A20:D30",
-        "height": 1500
-      },
-      "rune": {
-        "range": "P_brandish!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "P_brandish!A40:C50",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "P_brandish!A53:C54",
-        "height": 180
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-brandish",
+    "equip1": {
+      "range": "P_brandish!A7:D17",
+      "height": 1800
+    },
+    "equip2": {
+      "range": "P_brandish!A20:D30",
+      "height": 1500
+    },
+    "rune": {
+      "range": "P_brandish!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "P_brandish!A40:C50",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "P_brandish!A53:C54",
+      "height": 180
     }
   },
   "zeal": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-zeal",
-    "sections": {
-      "equip1": {
-        "range": "P_zeal!A7:D17",
-        "height": 1700
-      },
-      "equip2": {
-        "range": "P_zeal!A20:D30",
-        "height": 1450
-      },
-      "rune": {
-        "range": "P_zeal!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "P_zeal!A40:C50",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "P_zeal!A53:C54",
-        "height": 200
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-zeal",
+    "equip1": {
+      "range": "P_zeal!A7:D17",
+      "height": 1700
+    },
+    "equip2": {
+      "range": "P_zeal!A20:D30",
+      "height": 1450
+    },
+    "rune": {
+      "range": "P_zeal!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "P_zeal!A40:C50",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "P_zeal!A53:C54",
+      "height": 200
     }
   },
   "blessed-shield-thorns": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-blessed-shield-thorns",
-    "sections": {
-      "equip1": {
-        "range": "P_blessed-shield-thorns!A7:D17",
-        "height": 1800
-      },
-      "equip2": {
-        "range": "P_blessed-shield-thorns!A20:D30",
-        "height": 1500
-      },
-      "rune": {
-        "range": "P_blessed-shield-thorns!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "P_blessed-shield-thorns!A40:C50",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "P_blessed-shield-thorns!A53:C54",
-        "height": 180
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-blessed-shield-thorns",
+    "equip1": {
+      "range": "P_blessed-shield-thorns!A7:D17",
+      "height": 1800
+    },
+    "equip2": {
+      "range": "P_blessed-shield-thorns!A20:D30",
+      "height": 1500
+    },
+    "rune": {
+      "range": "P_blessed-shield-thorns!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "P_blessed-shield-thorns!A40:C50",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "P_blessed-shield-thorns!A53:C54",
+      "height": 180
     }
   },
   "blessed-shield-leveling": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-blessed-shield-leveling",
-    "sections": {
-      "equip1": {
-        "range": "P_blessed-shield-leveling!A7:E17",
-        "height": 1150
-      },
-      "rune": {
-        "range": "P_blessed-shield-leveling!A20:D24",
-        "height": 400
-      },
-      "class_mechanic": {
-        "range": "P_blessed-shield-leveling!A27:C28",
-        "height": 180
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-blessed-shield-leveling",
+    "equip1": {
+      "range": "P_blessed-shield-leveling!A7:E17",
+      "height": 1150
+    },
+    "rune": {
+      "range": "P_blessed-shield-leveling!A20:D24",
+      "height": 400
+    },
+    "class_mechanic": {
+      "range": "P_blessed-shield-leveling!A27:C28",
+      "height": 180
     }
   },
   "blessed-hammer": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-blessed-hammer",
-    "sections": {
-      "equip1": {
-        "range": "P_blessed-hammer!A7:D17",
-        "height": 1750
-      },
-      "equip2": {
-        "range": "P_blessed-hammer!A20:D30",
-        "height": 1500
-      },
-      "rune": {
-        "range": "P_blessed-hammer!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "P_blessed-hammer!A40:C50",
-        "height": 1150
-      },
-      "class_mechanic": {
-        "range": "P_blessed-hammer!A53:C54",
-        "height": 180
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-blessed-hammer",
+    "equip1": {
+      "range": "P_blessed-hammer!A7:D17",
+      "height": 1750
+    },
+    "equip2": {
+      "range": "P_blessed-hammer!A20:D30",
+      "height": 1500
+    },
+    "rune": {
+      "range": "P_blessed-hammer!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "P_blessed-hammer!A40:C50",
+      "height": 1150
+    },
+    "class_mechanic": {
+      "range": "P_blessed-hammer!A53:C54",
+      "height": 180
     }
   },
   "divine-lance": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-divine-lance",
-    "sections": {
-      "equip1": {
-        "range": "P_divine-lance!A7:D17",
-        "height": 1800
-      },
-      "equip2": {
-        "range": "P_divine-lance!A20:D30",
-        "height": 1500
-      },
-      "rune": {
-        "range": "P_divine-lance!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "P_divine-lance!A40:C50",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "P_divine-lance!A53:C54",
-        "height": 200
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-divine-lance",
+    "equip1": {
+      "range": "P_divine-lance!A7:D17",
+      "height": 1800
+    },
+    "equip2": {
+      "range": "P_divine-lance!A20:D30",
+      "height": 1500
+    },
+    "rune": {
+      "range": "P_divine-lance!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "P_divine-lance!A40:C50",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "P_divine-lance!A53:C54",
+      "height": 200
     }
   },
   "auradin": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-auradin",
-    "sections": {
-      "equip1": {
-        "range": "P_auradin!A7:D17",
-        "height": 1850
-      },
-      "equip2": {
-        "range": "P_auradin!A20:D30",
-        "height": 1550
-      },
-      "rune": {
-        "range": "P_auradin!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "P_auradin!A40:C50",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "P_auradin!A53:C54",
-        "height": 180
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-auradin",
+    "equip1": {
+      "range": "P_auradin!A7:D17",
+      "height": 1850
+    },
+    "equip2": {
+      "range": "P_auradin!A20:D30",
+      "height": 1550
+    },
+    "rune": {
+      "range": "P_auradin!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "P_auradin!A40:C50",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "P_auradin!A53:C54",
+      "height": 180
     }
   },
   "shield-charge": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-shield-charge",
-    "sections": {
-      "equip1": {
-        "range": "P_shield-charge!A7:D17",
-        "height": 1800
-      },
-      "equip2": {
-        "range": "P_shield-charge!A20:D30",
-        "height": 1500
-      },
-      "rune": {
-        "range": "P_shield-charge!A33:D37",
-        "height": 400
-      },
-      "paragon": {
-        "range": "P_shield-charge!A40:C50",
-        "height": 1100
-      },
-      "class_mechanic": {
-        "range": "P_shield-charge!A53:C54",
-        "height": 180
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-shield-charge",
+    "equip1": {
+      "range": "P_shield-charge!A7:D17",
+      "height": 1800
+    },
+    "equip2": {
+      "range": "P_shield-charge!A20:D30",
+      "height": 1500
+    },
+    "rune": {
+      "range": "P_shield-charge!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "P_shield-charge!A40:C50",
+      "height": 1100
+    },
+    "class_mechanic": {
+      "range": "P_shield-charge!A53:C54",
+      "height": 180
     }
   },
   "shield-charge-leveling": {
-    "iframe_url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-shield-charge-leveling",
-    "sections": {
-      "equip1": {
-        "range": "P_shield-charge-leveling!A7:E17",
-        "height": 1150
-      },
-      "rune": {
-        "range": "P_shield-charge-leveling!A20:D24",
-        "height": 400
-      },
-      "class_mechanic": {
-        "range": "P_shield-charge-leveling!A27:C28",
-        "height": 180
-      }
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-shield-charge-leveling",
+    "equip1": {
+      "range": "P_shield-charge-leveling!A7:E17",
+      "height": 1150
+    },
+    "rune": {
+      "range": "P_shield-charge-leveling!A20:D24",
+      "height": 400
+    },
+    "class_mechanic": {
+      "range": "P_shield-charge-leveling!A27:C28",
+      "height": 180
     }
   }
 }
