@@ -1,5 +1,5 @@
 {
-  "lunging-strike": {
+  "B_lunging-strike": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-lunging-strike",
     "equip1": {
       "range": "B_lunging-strike!A7:D19",
@@ -22,10 +22,10 @@
       "height": 180
     }
   },
-  "frenzy": {
+  "B_frenzy": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-frenzy"
   },
-  "whirlwind": {
+  "B_whirlwind": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-whirlwind",
     "equip1": {
       "range": "B_whirlwind!A7:D19",
@@ -48,7 +48,7 @@
       "height": 180
     }
   },
-  "hota": {
+  "B_hota": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota",
     "equip1": {
       "range": "B_hota!A7:D19",
@@ -71,7 +71,7 @@
       "height": 180
     }
   },
-  "hota-leveling": {
+  "B_hota-leveling": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota-leveling",
     "equip1": {
       "range": "B_hota-leveling!A7:E19",
@@ -86,13 +86,13 @@
       "height": 180
     }
   },
-  "hota-earthquake": {
+  "B_hota-earthquake": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-hota-earthquake"
   },
-  "upheaval": {
+  "B_upheaval": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-upheaval"
   },
-  "leapquake": {
+  "B_leapquake": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-leapquake",
     "equip1": {
       "range": "B_leapquake!A7:D19",
@@ -115,7 +115,7 @@
       "height": 180
     }
   },
-  "mighty-throw": {
+  "B_mighty-throw": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-mighty-throw",
     "equip1": {
       "range": "B_mighty-throw!A7:D19",
@@ -138,30 +138,30 @@
       "height": 180
     }
   },
-  "zdps": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-zdps",
+  "B_zdps": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-zdps",
     "equip1": {
-      "range": "P_zdps!A7:D17",
-      "height": 1600
+      "range": "B_zdps!A7:D19",
+      "height": 1950
     },
     "equip2": {
-      "range": "P_zdps!A20:D30",
-      "height": 1400
+      "range": "B_zdps!A22:D34",
+      "height": 1700
     },
     "rune": {
-      "range": "P_zdps!A33:D37",
+      "range": "B_zdps!A37:D41",
       "height": 400
     },
     "paragon": {
-      "range": "P_zdps!A40:C50",
+      "range": "B_zdps!A44:C54",
       "height": 1000
     },
     "class_mechanic": {
-      "range": "P_zdps!A53:C54",
+      "range": "B_zdps!A57:C58",
       "height": 180
     }
   },
-  "pulverize": {
+  "D_pulverize": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-pulverize",
     "equip1": {
       "range": "D_pulverize!A7:D17",
@@ -184,7 +184,7 @@
       "height": 350
     }
   },
-  "pulverize-leveling": {
+  "D_pulverize-leveling": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-pulverize-leveling",
     "equip1": {
       "range": "D_pulverize-leveling!A7:E17",
@@ -199,7 +199,7 @@
       "height": 350
     }
   },
-  "shred": {
+  "D_shred": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-shred",
     "equip1": {
       "range": "D_shred!A7:D17",
@@ -222,13 +222,13 @@
       "height": 320
     }
   },
-  "tornado": {
+  "D_tornado": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-tornado"
   },
-  "lightning-storm": {
+  "D_lightning-storm": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-lightning-storm"
   },
-  "fleshrender": {
+  "D_fleshrender": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-fleshrender",
     "equip1": {
       "range": "D_fleshrender!A7:D17",
@@ -251,7 +251,7 @@
       "height": 350
     }
   },
-  "companion": {
+  "D_companion": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-companion",
     "equip1": {
       "range": "D_companion!A7:D17",
@@ -274,7 +274,7 @@
       "height": 400
     }
   },
-  "boulder": {
+  "D_boulder": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-boulder",
     "equip1": {
       "range": "D_boulder!A7:D17",
@@ -297,13 +297,36 @@
       "height": 320
     }
   },
-  "landslide": {
+  "D_landslide": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-landslide"
   },
-  "cataclysm": {
+  "D_cataclysm": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-cataclysm"
   },
-  "pure-summoner-leveling": {
+  "D_zdps": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-zdps",
+    "equip1": {
+      "range": "D_zdps!A7:D17",
+      "height": 1700
+    },
+    "equip2": {
+      "range": "D_zdps!A20:D30",
+      "height": 1450
+    },
+    "rune": {
+      "range": "D_zdps!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "D_zdps!A40:C50",
+      "height": 1050
+    },
+    "class_mechanic": {
+      "range": "D_zdps!A53:C57",
+      "height": 400
+    }
+  },
+  "N_pure-summoner-leveling": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-pure-summoner-leveling",
     "equip1": {
       "range": "N_pure-summoner-leveling!A7:E17",
@@ -318,7 +341,7 @@
       "height": 260
     }
   },
-  "arch-mages-summoner": {
+  "N_arch-mages-summoner": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-arch-mages-summoner",
     "equip1": {
       "range": "N_arch-mages-summoner!A7:D17",
@@ -341,7 +364,7 @@
       "height": 400
     }
   },
-  "golem-summoner": {
+  "N_golem-summoner": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-golem-summoner",
     "equip1": {
       "range": "N_golem-summoner!A7:D17",
@@ -364,19 +387,19 @@
       "height": 400
     }
   },
-  "bone-spear": {
+  "N_bone-spear": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-bone-spear"
   },
-  "blood-surge": {
+  "N_blood-surge": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-blood-surge"
   },
-  "blood-lance": {
+  "N_blood-lance": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-blood-lance"
   },
-  "sever": {
+  "N_sever": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-sever"
   },
-  "bone-spirit": {
+  "N_bone-spirit": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-bone-spirit",
     "equip1": {
       "range": "N_bone-spirit!A7:D17",
@@ -399,7 +422,7 @@
       "height": 300
     }
   },
-  "blood-wave": {
+  "N_blood-wave": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-blood-wave",
     "equip1": {
       "range": "N_blood-wave!A7:D17",
@@ -422,7 +445,7 @@
       "height": 300
     }
   },
-  "shadowblight": {
+  "N_shadowblight": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-shadowblight",
     "equip1": {
       "range": "N_shadowblight!A7:D17",
@@ -445,7 +468,7 @@
       "height": 300
     }
   },
-  "affliction": {
+  "N_affliction": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-affliction",
     "equip1": {
       "range": "N_affliction!A7:D17",
@@ -468,7 +491,7 @@
       "height": 300
     }
   },
-  "heartseeker": {
+  "R_heartseeker": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-heartseeker",
     "equip1": {
       "range": "R_heartseeker!A7:D18",
@@ -491,10 +514,10 @@
       "height": 170
     }
   },
-  "flurry": {
+  "R_flurry": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-flurry"
   },
-  "twisting-blades": {
+  "R_twisting-blades": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-twisting-blades",
     "equip1": {
       "range": "R_twisting-blades!A7:D18",
@@ -517,13 +540,13 @@
       "height": 170
     }
   },
-  "rapid-fire": {
+  "R_rapid-fire": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-rapid-fire"
   },
-  "barrage": {
+  "R_barrage": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-barrage"
   },
-  "penetrating-shot": {
+  "R_penetrating-shot": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-penetrating-shot",
     "equip1": {
       "range": "R_penetrating-shot!A7:D18",
@@ -546,7 +569,7 @@
       "height": 170
     }
   },
-  "dance-of-knives": {
+  "R_dance-of-knives": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-dance-of-knives",
     "equip1": {
       "range": "R_dance-of-knives!A7:D18",
@@ -569,7 +592,7 @@
       "height": 170
     }
   },
-  "dance-of-knives-leveling": {
+  "R_dance-of-knives-leveling": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-dance-of-knives-leveling",
     "equip1": {
       "range": "R_dance-of-knives-leveling!A7:E18",
@@ -584,7 +607,7 @@
       "height": 170
     }
   },
-  "death-trap": {
+  "R_death-trap": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-death-trap",
     "equip1": {
       "range": "R_death-trap!A7:D18",
@@ -607,7 +630,7 @@
       "height": 170
     }
   },
-  "rain-of-arrows": {
+  "R_rain-of-arrows": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-rain-of-arrows",
     "equip1": {
       "range": "R_rain-of-arrows!A7:D18",
@@ -630,16 +653,16 @@
       "height": 170
     }
   },
-  "fire-bolt": {
+  "S_fire-bolt": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-fire-bolt"
   },
-  "fireball": {
+  "S_fireball": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-fireball"
   },
-  "incinerate": {
+  "S_incinerate": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-incinerate"
   },
-  "hydra": {
+  "S_hydra": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-hydra",
     "equip1": {
       "range": "S_hydra!A7:D17",
@@ -658,13 +681,13 @@
       "height": 1150
     }
   },
-  "meteor": {
+  "S_meteor": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-meteor"
   },
-  "iceshards": {
+  "S_iceshards": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-iceshards"
   },
-  "frozen-orb": {
+  "S_frozen-orb": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-frozen-orb",
     "equip1": {
       "range": "S_frozen-orb!A7:D17",
@@ -683,7 +706,7 @@
       "height": 1200
     }
   },
-  "blizzard": {
+  "S_blizzard": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-blizzard",
     "equip1": {
       "range": "S_blizzard!A7:D17",
@@ -702,10 +725,10 @@
       "height": 1150
     }
   },
-  "chain-lightning": {
+  "S_chain-lightning": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-chain-lightning"
   },
-  "ball-lightning": {
+  "S_ball-lightning": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-ball-lightning",
     "equip1": {
       "range": "S_ball-lightning!A7:D17",
@@ -724,7 +747,7 @@
       "height": 1200
     }
   },
-  "ball-lightning-leveling": {
+  "S_ball-lightning-leveling": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-ball-lightning-leveling",
     "equip1": {
       "range": "S_ball-lightning-leveling!A7:E17",
@@ -735,7 +758,7 @@
       "height": 380
     }
   },
-  "crackling-energy": {
+  "S_crackling-energy": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-crackling-energy",
     "equip1": {
       "range": "S_crackling-energy!A7:D17",
@@ -754,7 +777,7 @@
       "height": 1200
     }
   },
-  "beast-strike": {
+  "SB_beast-strike": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-beast-strike",
     "equip1": {
       "range": "SB_beast-strike!A7:D16",
@@ -777,7 +800,7 @@
       "height": 300
     }
   },
-  "rake": {
+  "SB_rake": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-rake",
     "equip1": {
       "range": "SB_rake!A7:D16",
@@ -800,10 +823,10 @@
       "height": 280
     }
   },
-  "rushing-claw": {
+  "SB_rushing-claw": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-rushing-claw"
   },
-  "evade-eagle": {
+  "SB_evade-eagle": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-evade-eagle",
     "equip1": {
       "range": "SB_evade-eagle!A7:D16",
@@ -826,7 +849,7 @@
       "height": 300
     }
   },
-  "evade-eagle-leveling": {
+  "SB_evade-eagle-leveling": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-evade-eagle-leveling",
     "equip1": {
       "range": "SB_evade-eagle-leveling!A7:E16",
@@ -841,7 +864,7 @@
       "height": 280
     }
   },
-  "quill-volley": {
+  "SB_quill-volley": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-quill-volley",
     "equip1": {
       "range": "SB_quill-volley!A7:D16",
@@ -864,10 +887,10 @@
       "height": 280
     }
   },
-  "razor-wings": {
+  "SB_razor-wings": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-razor-wings"
   },
-  "crushing-hand": {
+  "SB_crushing-hand": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-crushing-hand",
     "equip1": {
       "range": "SB_crushing-hand!A7:D16",
@@ -890,7 +913,7 @@
       "height": 280
     }
   },
-  "payback": {
+  "SB_payback": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-payback",
     "equip1": {
       "range": "SB_payback!A7:D16",
@@ -913,10 +936,10 @@
       "height": 280
     }
   },
-  "touch-of-death": {
+  "SB_touch-of-death": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-touch-of-death"
   },
-  "wing-strikes": {
+  "P_wing-strikes": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-wing-strikes",
     "equip1": {
       "range": "P_wing-strikes!A7:D17",
@@ -939,7 +962,7 @@
       "height": 180
     }
   },
-  "judgement": {
+  "P_judgement": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-judgement",
     "equip1": {
       "range": "P_judgement!A7:D17",
@@ -962,7 +985,7 @@
       "height": 200
     }
   },
-  "brandish": {
+  "P_brandish": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-brandish",
     "equip1": {
       "range": "P_brandish!A7:D17",
@@ -985,7 +1008,7 @@
       "height": 180
     }
   },
-  "zeal": {
+  "P_zeal": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-zeal",
     "equip1": {
       "range": "P_zeal!A7:D17",
@@ -1008,7 +1031,7 @@
       "height": 200
     }
   },
-  "blessed-shield-thorns": {
+  "P_blessed-shield-thorns": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-blessed-shield-thorns",
     "equip1": {
       "range": "P_blessed-shield-thorns!A7:D17",
@@ -1031,7 +1054,7 @@
       "height": 180
     }
   },
-  "blessed-shield-leveling": {
+  "P_blessed-shield-leveling": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-blessed-shield-leveling",
     "equip1": {
       "range": "P_blessed-shield-leveling!A7:E17",
@@ -1046,7 +1069,7 @@
       "height": 180
     }
   },
-  "blessed-hammer": {
+  "P_blessed-hammer": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-blessed-hammer",
     "equip1": {
       "range": "P_blessed-hammer!A7:D17",
@@ -1069,7 +1092,7 @@
       "height": 180
     }
   },
-  "divine-lance": {
+  "P_divine-lance": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-divine-lance",
     "equip1": {
       "range": "P_divine-lance!A7:D17",
@@ -1092,7 +1115,7 @@
       "height": 200
     }
   },
-  "auradin": {
+  "P_auradin": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-auradin",
     "equip1": {
       "range": "P_auradin!A7:D17",
@@ -1115,7 +1138,7 @@
       "height": 180
     }
   },
-  "shield-charge": {
+  "P_shield-charge": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-shield-charge",
     "equip1": {
       "range": "P_shield-charge!A7:D17",
@@ -1138,7 +1161,7 @@
       "height": 180
     }
   },
-  "shield-charge-leveling": {
+  "P_shield-charge-leveling": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-shield-charge-leveling",
     "equip1": {
       "range": "P_shield-charge-leveling!A7:E17",
@@ -1150,6 +1173,29 @@
     },
     "class_mechanic": {
       "range": "P_shield-charge-leveling!A27:C28",
+      "height": 180
+    }
+  },
+  "P_zdps": {
+    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-zdps",
+    "equip1": {
+      "range": "P_zdps!A7:D17",
+      "height": 1600
+    },
+    "equip2": {
+      "range": "P_zdps!A20:D30",
+      "height": 1400
+    },
+    "rune": {
+      "range": "P_zdps!A33:D37",
+      "height": 400
+    },
+    "paragon": {
+      "range": "P_zdps!A40:C50",
+      "height": 1000
+    },
+    "class_mechanic": {
+      "range": "P_zdps!A53:C54",
       "height": 180
     }
   }
