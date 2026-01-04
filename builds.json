@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-04 15:51:37",
+  "updated_at": "2026-01-04 16:32:12",
   "builds": {
     "B_lunging-strike": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-lunging-strike",
@@ -3976,10 +3976,10 @@
             ],
             [
               "指輪",
-              "気力宿す死神の化身\n（of Empowering Reaper）",
-              "〈刈り取り〉で敵にダメージを与えると[15-35]%の確率で〈病害〉\n溜まりが標的の足元に発生し、x[70-190]%のボーナスダメージを与える。\n効果が発動するのは3秒に1回のみ。",
+              "",
+              "－",
               "知力\n攻撃速度\nクリティカルヒット率",
-              "スコスグレンの 沈みし深み\r"
+              "－"
             ]
           ]
         },
