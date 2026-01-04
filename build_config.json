@@ -1,50 +1,4 @@
 {
-  "B_mighty-throw": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-mighty-throw",
-    "equip1": {
-      "range": "B_mighty-throw!A7:D19",
-      "height": 2050
-    },
-    "equip2": {
-      "range": "B_mighty-throw!A22:D34",
-      "height": 1800
-    },
-    "rune": {
-      "range": "B_mighty-throw!A37:D41",
-      "height": 440
-    },
-    "paragon": {
-      "range": "B_mighty-throw!A44:C54",
-      "height": 1100
-    },
-    "class_mechanic": {
-      "range": "B_mighty-throw!A57:C58",
-      "height": 180
-    }
-  },
-  "B_zdps": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-zdps",
-    "equip1": {
-      "range": "B_zdps!A7:D19",
-      "height": 1950
-    },
-    "equip2": {
-      "range": "B_zdps!A22:D34",
-      "height": 1700
-    },
-    "rune": {
-      "range": "B_zdps!A37:D41",
-      "height": 400
-    },
-    "paragon": {
-      "range": "B_zdps!A44:C54",
-      "height": 1000
-    },
-    "class_mechanic": {
-      "range": "B_zdps!A57:C58",
-      "height": 180
-    }
-  },
   "D_shred": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-shred",
     "equip1": {
@@ -487,17 +441,6 @@
     "paragon": {
       "range": "S_ball-lightning!A40:C50",
       "height": 1200
-    }
-  },
-  "S_ball-lightning-leveling": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-ball-lightning-leveling",
-    "equip1": {
-      "range": "S_ball-lightning-leveling!A7:E17",
-      "height": 1200
-    },
-    "rune": {
-      "range": "S_ball-lightning-leveling!A20:D24",
-      "height": 380
     }
   },
   "SB_beast-strike": {
