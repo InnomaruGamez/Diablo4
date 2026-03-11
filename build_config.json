@@ -22,29 +22,6 @@
       "height": 320
     }
   },
-  "D_fleshrender": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-fleshrender",
-    "equip1": {
-      "range": "D_fleshrender!A7:D17",
-      "height": 1800
-    },
-    "equip2": {
-      "range": "D_fleshrender!A20:D30",
-      "height": 1500
-    },
-    "rune": {
-      "range": "D_fleshrender!A33:D37",
-      "height": 400
-    },
-    "paragon": {
-      "range": "D_fleshrender!A40:C50",
-      "height": 1150
-    },
-    "class_mechanic": {
-      "range": "D_fleshrender!A53:C57",
-      "height": 350
-    }
-  },
   "D_boulder": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-boulder",
     "equip1": {
@@ -357,52 +334,6 @@
     "class_mechanic": {
       "range": "SB_crushing-hand!A51:C53",
       "height": 280
-    }
-  },
-  "SB_payback": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-spiritborn-build-payback",
-    "equip1": {
-      "range": "SB_payback!A7:D16",
-      "height": 1550
-    },
-    "equip2": {
-      "range": "SB_payback!A19:D28",
-      "height": 1300
-    },
-    "rune": {
-      "range": "SB_payback!A31:D35",
-      "height": 400
-    },
-    "paragon": {
-      "range": "SB_payback!A38:C48",
-      "height": 1100
-    },
-    "class_mechanic": {
-      "range": "SB_payback!A51:C53",
-      "height": 280
-    }
-  },
-  "P_judgement": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-judgement",
-    "equip1": {
-      "range": "P_judgement!A7:D17",
-      "height": 1800
-    },
-    "equip2": {
-      "range": "P_judgement!A20:D30",
-      "height": 1550
-    },
-    "rune": {
-      "range": "P_judgement!A33:D37",
-      "height": 400
-    },
-    "paragon": {
-      "range": "P_judgement!A40:C50",
-      "height": 1100
-    },
-    "class_mechanic": {
-      "range": "P_judgement!A53:C54",
-      "height": 200
     }
   },
   "P_zeal": {
