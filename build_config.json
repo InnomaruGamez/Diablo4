@@ -336,52 +336,6 @@
       "height": 280
     }
   },
-  "P_zeal": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-zeal",
-    "equip1": {
-      "range": "P_zeal!A7:D17",
-      "height": 1700
-    },
-    "equip2": {
-      "range": "P_zeal!A20:D30",
-      "height": 1450
-    },
-    "rune": {
-      "range": "P_zeal!A33:D37",
-      "height": 400
-    },
-    "paragon": {
-      "range": "P_zeal!A40:C50",
-      "height": 1100
-    },
-    "class_mechanic": {
-      "range": "P_zeal!A53:C54",
-      "height": 200
-    }
-  },
-  "P_divine-lance": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-divine-lance",
-    "equip1": {
-      "range": "P_divine-lance!A7:D17",
-      "height": 1800
-    },
-    "equip2": {
-      "range": "P_divine-lance!A20:D30",
-      "height": 1500
-    },
-    "rune": {
-      "range": "P_divine-lance!A33:D37",
-      "height": 400
-    },
-    "paragon": {
-      "range": "P_divine-lance!A40:C50",
-      "height": 1100
-    },
-    "class_mechanic": {
-      "range": "P_divine-lance!A53:C54",
-      "height": 200
-    }
-  },
   "P_shield-charge": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-paladin-build-shield-charge",
     "equip1": {
