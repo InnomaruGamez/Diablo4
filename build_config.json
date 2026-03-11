@@ -160,29 +160,6 @@
       "height": 400
     }
   },
-  "N_golem-summoner": {
-    "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-golem-summoner",
-    "equip1": {
-      "range": "N_golem-summoner!A7:D17",
-      "height": 1850
-    },
-    "equip2": {
-      "range": "N_golem-summoner!A20:D30",
-      "height": 1550
-    },
-    "rune": {
-      "range": "N_golem-summoner!A33:D37",
-      "height": 440
-    },
-    "paragon": {
-      "range": "N_golem-summoner!A40:C50",
-      "height": 1200
-    },
-    "class_mechanic": {
-      "range": "N_golem-summoner!A53:D56",
-      "height": 400
-    }
-  },
   "N_bone-spirit": {
     "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-bone-spirit",
     "equip1": {
