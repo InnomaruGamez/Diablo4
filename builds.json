@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-12 23:40:01",
+  "updated_at": "2026-03-13 00:34:54",
   "builds": {
     "B_lunging-strike": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-lunging-strike",
@@ -4741,6 +4741,10 @@
         }
       }
     },
+    "D_shred": {
+      "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-shred",
+      "data": {}
+    },
     "D_pulverize": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-pulverize",
       "data": {
@@ -8851,6 +8855,10 @@
           ]
         }
       }
+    },
+    "D_zdps": {
+      "url": "https://innomaroom.hatenablog.com/entry/diablo4-druid-build-zdps",
+      "data": {}
     },
     "N_arch-mages-summoner": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-arch-mages-summoner",
@@ -13101,6 +13109,10 @@
         }
       }
     },
+    "N_affliction": {
+      "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-affliction",
+      "data": {}
+    },
     "N_affliction-leveling": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo4-necromancer-build-affliction-leveling",
       "data": {
@@ -14044,6 +14056,10 @@
           ]
         }
       }
+    },
+    "R_penetrating-shot": {
+      "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-penetrating-shot",
+      "data": {}
     },
     "R_penetrating-shot-leveling": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo4-rogue-build-penetrating-shot-leveling",
@@ -18831,6 +18847,10 @@
         }
       }
     },
+    "S_frozen-orb": {
+      "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-frozen-orb",
+      "data": {}
+    },
     "S_frozen-orb-leveling": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-frozen-orb-leveling",
       "data": {
@@ -20682,6 +20702,10 @@
           ]
         }
       }
+    },
+    "S_ball-lightning": {
+      "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-ball-lightning",
+      "data": {}
     },
     "S_ball-lightning-leveling": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo4-sorcerer-build-ball-lightning-leveling",
