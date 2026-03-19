@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20 03:36:03",
+  "updated_at": "2026-03-20 04:35:51",
   "builds": {
     "B_lunging-strike": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-lunging-strike",
@@ -30220,6 +30220,27 @@
               ""
             ],
             [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20251212/20251212235906.png\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />聖なる光のオーラ\n（Holy Light Aura）\n［オーラ］\n［断罪者］",
+              "1",
+              "信念コスト：25\nクールダウン：25秒\nパッシブ：自身と味方が聖なる光を発し、付近にいるランダムな敵3体に\n　　　　　対して2秒ごとに90%ダメージを与える。\nアクティブ：光の矢を2本放出し、一番近くにいる敵に320%ダメージを\n　　　　　　与える。矢は手元に戻ってくる前に最大で4体の敵に連鎖する。\n　　　　　　最初の矢が戻って来た時に、ライフが最大値の12%を回復する。",
+              "神聖"
+            ],
+            [
+              "",
+              "┗【強化】",
+              "1",
+              "〈聖なる光〉のパッシブ効果が追加で2体の敵を狙うようになる。",
+              ""
+            ],
+            [
+              "",
+              "　┗【屈服の儀式】",
+              "1",
+              " 〈聖なる光〉のアクティブ効果が敵を3秒間スタンさせて\n130%ダメージを与える。",
+              ""
+            ],
+            [
               "勇敢",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20251212/20251212235947.png\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />落星\n（Falling Star）\n［勇敢］\n［門弟］\n［機動力］",
               "1",
@@ -30277,27 +30298,6 @@
             ],
             [
               "正義",
-              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20251213/20251213000001.png\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />浄化\n（Purify）\n［正義］\n［防御］\n［断罪者］",
-              "1",
-              "クールダウン：12秒\n光で敵を包み込み、2秒間眩暈状態にする。",
-              ""
-            ],
-            [
-              "",
-              "┗【強化】",
-              "1",
-              "〈浄化〉が付与された敵1体につき、信念を10生成する。",
-              ""
-            ],
-            [
-              "",
-              "　┗【判決】",
-              "1",
-              "〈浄化〉がさらに敵を制裁し、クールダウン時間が4秒短縮される。",
-              ""
-            ],
-            [
-              "",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20251213/20251213000014.png\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />聖化\n（Consecration）\n［正義］\n［防御］\n［断罪者］",
               "1",
               "クールダウン：18秒\n幸運の一撃発生率：12%\n6秒間、光を浴び、毎秒自身と味方のライフを最大値の4.0%回復し、\n毎秒敵に75%ダメージを与える。",
