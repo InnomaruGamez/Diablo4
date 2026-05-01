@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02 00:35:05",
+  "updated_at": "2026-05-02 00:43:15",
   "builds": {
     "B_lunging-strike": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-lunging-strike",
@@ -25071,27 +25071,6 @@
           ],
           "rows": [
             [
-              "基本",
-              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20251212/20251212235709.png\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />前進\n（Advance）\n［基本］\n［狂信者］\n［機動力］",
-              "1",
-              "",
-              ""
-            ],
-            [
-              "",
-              "┗【閃光の刃】",
-              "1",
-              "",
-              ""
-            ],
-            [
-              "",
-              "　┗【束縛不可】",
-              "1",
-              "",
-              ""
-            ],
-            [
               "オーラ",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20251212/20251212235853.png\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />狂信のオーラ\n（Fanaticism Aura）\n［オーラ］",
               "15",
@@ -25107,7 +25086,7 @@
             ],
             [
               "",
-              "　┗【追加リソース最大値】",
+              "　┗【追加のパッシブ蓄積】",
               "1",
               "",
               ""
@@ -25128,7 +25107,7 @@
             ],
             [
               "",
-              "┗【祈りの儀式】",
+              "┗【力の儀式】",
               "1",
               "",
               ""
@@ -25142,7 +25121,7 @@
             ],
             [
               "",
-              "　┗【潜在力】",
+              "　┗【ボーナス回復】",
               "1",
               "",
               ""
@@ -25156,35 +25135,63 @@
             ],
             [
               "",
-              "┗【制裁の儀式】",
+              "┗【慈悲の儀式】",
               "1",
               "",
               ""
             ],
             [
               "",
-              "　┗【追加標的】",
+              "　┗【追加跳飛】",
               "1",
               "",
               ""
             ],
             [
               "",
-              "　┗【制裁ダメージボーナス】",
+              "　┗【潜在力】",
               "1",
               "",
               ""
             ],
             [
               "勇敢",
-              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20251212/20251212235947.png\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />落星\n（Falling Star）\n［勇敢］\n［門弟］\n［機動力］",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20251212/20251212235938.png\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />庇護\n（Aegis）\n［勇敢］\n［重装者］\n［防御］",
               "1",
               "",
               ""
             ],
             [
               "",
-              "┗【超光速】",
+              "┗【堅忍不抜】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【クールダウン時間短縮】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【持続時間】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20251212/20251212235947.png\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />落星\n（Falling Star）\n［勇敢］\n［門弟］\n［機動力］",
+              "4",
+              "",
+              ""
+            ],
+            [
+              "",
+              "┗【流星】",
               "1",
               "",
               ""
@@ -25204,50 +25211,22 @@
               ""
             ],
             [
-              "正義",
-              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20251213/20251213000014.png\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />聖化\n（Consecration）\n［正義］\n［防御］\n［断罪者］",
+              "奥義",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20251213/20251213000059.png\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />正義の裁定者\n（Arbiter of Justice）\n［奥義］\n［門弟］\n［機動力］",
               "15",
               "",
               ""
             ],
             [
               "",
-              "┗【聖場】",
+              "┗【セラフィムの翼】",
               "1",
               "",
               ""
             ],
             [
               "",
-              "　┗【弱体化】",
-              "1",
-              "",
-              ""
-            ],
-            [
-              "",
-              "　┗【強化】",
-              "1",
-              "",
-              ""
-            ],
-            [
-              "奥義",
-              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20251213/20251213000059.png\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />正義の裁定者\n（Arbiter of Justice）\n［奥義］\n［門弟］\n［機動力］",
-              "1",
-              "",
-              ""
-            ],
-            [
-              "",
-              "┗【法の理】",
-              "1",
-              "",
-              ""
-            ],
-            [
-              "",
-              "　┗【クールダウン時間短縮】",
+              "　┗【まとう風の再発動】",
               "1",
               "",
               ""
