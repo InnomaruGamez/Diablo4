@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03 15:34:40",
+  "updated_at": "2026-05-03 15:38:05",
   "builds": {
     "B_lunging-strike": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-lunging-strike",
@@ -14086,7 +14086,239 @@
             "効果",
             "属性"
           ],
-          "rows": []
+          "rows": [
+            [
+              "基本",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20230605/20230605230140.jpg\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />鎌切り\n（Reap）\n［基本］\n［闇］",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "┗【弱者淘汰】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【精髄生成】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【猛威】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "コア",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20230605/20230605230224.jpg\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />刈り取り\n（Sever）\n［コア］\n［闇］",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "┗【容赦なき死神】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【コスト減少】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【操作障害効果と死体生成】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "死体",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20230605/20230605230328.jpg\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />死食草\n（Corpse Tendrils）\n［死体］\n［冒涜］",
+              "10",
+              "",
+              ""
+            ],
+            [
+              "",
+              "┗【こっちに来い！】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【クリティカルヒット率】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【脆弱】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260501/20260501013812.png\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />スケルトンウォーリア\n（Skeleton Warrior）\n［ミニオン］\n［死体］\n［召喚］",
+              "15",
+              "",
+              ""
+            ],
+            [
+              "",
+              "┗【義務と犠牲】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【回復】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【脆弱】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "妖気",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20230605/20230605230248.jpg\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />ブラッドミスト\n（Blood Mist）\n［妖気］\n［血］",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "┗【ブラッド・ラッシュ】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【移動速度】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【オーバーパワー】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "呪い",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20230605/20230605230313.jpg\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />衰弱\n（Decrepify）\n［呪い］\n［冒涜］",
+              "15",
+              "",
+              ""
+            ],
+            [
+              "",
+              "┗【生気吸収】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【クールダウン時間短縮】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【決意】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20230605/20230605230306.jpg\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />アイアンメイデン\n（Iron Maiden）\n［呪い］\n［冒涜］",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "┗【血の乙女】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【処刑と強化】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【脆弱】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "奥義",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20230605/20230605230346.jpg\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />ブラッドウェーブ\n（Blood Wave）\n［奥義］\n［血］",
+              "15",
+              "",
+              ""
+            ],
+            [
+              "",
+              "┗【血液学】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【ダメージボーナス】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【オーバーパワー】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "合計ポイント",
+              "",
+              "83",
+              "スキルポイント最大値：83",
+              ""
+            ]
+          ]
         },
         "class_mechanic": {
           "header": [
