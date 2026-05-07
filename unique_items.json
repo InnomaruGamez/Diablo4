@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06 20:02:23",
+  "updated_at": "2026-05-07 09:32:25",
   "items": [
     {
       "name": "モルタクラクス\n（The Mortacrux）",
@@ -2738,9 +2738,9 @@
       "note": "★S13で追加"
     },
     {
-      "name": "\n（Emblem of Staalbreak）",
+      "name": "スタールブリークの紋\n（Emblem of Staalbreak）",
       "slot": "アミュレット",
-      "effect": "【画像提供求む】バーサークのやつ",
+      "effect": "バーサーク中のダメージボーナスがx[85.0-110.0]%増加する。\n健全状態でなくなると常にバーサーク状態になる。",
       "class": "バーバリアンのみ",
       "drops": {
         "bosses": [
