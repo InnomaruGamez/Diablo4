@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11 09:32:25",
+  "updated_at": "2026-05-11 09:58:29",
   "items": [
     {
       "name": "モルタクラクス\n（The Mortacrux）",
@@ -2247,9 +2247,9 @@
       "note": ""
     },
     {
-      "name": "\n（Shrouded Gift）",
+      "name": "覆い隠された贈り物\n（Shrouded Gift）",
       "slot": "ズボン",
-      "effect": "【画像提供求む】隠密のやつ",
+      "effect": "隠密状態になると〈隠遁〉を獲得する。\n隠密中および解除後8秒間、ダメージが[25-30]%増加する。",
       "class": "ローグのみ",
       "drops": {
         "bosses": [
