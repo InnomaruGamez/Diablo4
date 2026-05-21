@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21 09:32:28",
+  "updated_at": "2026-05-22 01:32:13",
   "items": [
     {
       "name": "モルタクラクス\n（The Mortacrux）",
@@ -1084,7 +1084,6 @@
       "class": "バーバリアンのみ",
       "drops": {
         "bosses": [
-          "アスタロス",
           "憎悪の先駆者"
         ],
         "general": false
