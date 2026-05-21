@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21 15:10:01",
+  "updated_at": "2026-05-21 15:21:14",
   "builds": {
     "B_lunging-strike": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-lunging-strike",
@@ -11065,6 +11065,41 @@
           ],
           "rows": [
             [
+              "コア",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20230605/20230605220355.jpg\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />雷嵐\n（Lightning Storm）\n［コア］\n［自然魔法］\n［嵐］\n［人間］\n［連続発動］",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "［人狼］",
+              "*",
+              "",
+              ""
+            ],
+            [
+              "",
+              "┗【嵐の英雄】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【追加の一撃】",
+              "1",
+              "",
+              ""
+            ],
+            [
+              "",
+              "　┗【移動速度】",
+              "1",
+              "",
+              ""
+            ],
+            [
               "防御",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20230605/20230605220459.jpg\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />大地の護り\n（Earthen Bulwark）\n［防御］\n［自然魔法］\n［土］\n［多芸多才なる］",
               "15",
@@ -11130,34 +11165,6 @@
             [
               "",
               "　┗【耐性】",
-              "1",
-              "",
-              ""
-            ],
-            [
-              "使い魔",
-              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20230605/20230605220552.jpg\" width=\"50\" height=\"50\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /><br />狼の群れ\n（Wolves）\n［使い魔］\n［召喚］\n［多芸多才なる］",
-              "1",
-              "",
-              ""
-            ],
-            [
-              "",
-              "［多芸多才なる］",
-              "*",
-              "",
-              ""
-            ],
-            [
-              "",
-              "┗【狩りの興奮】",
-              "1",
-              "",
-              ""
-            ],
-            [
-              "",
-              "　┗【攻撃速度】",
               "1",
               "",
               ""
@@ -11305,7 +11312,7 @@
             [
               "合計ポイント",
               "",
-              "83",
+              "84",
               "スキルポイント最大値：83",
               ""
             ]
