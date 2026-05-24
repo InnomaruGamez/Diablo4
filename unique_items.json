@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24 09:32:25",
+  "updated_at": "2026-05-24 21:33:02",
   "items": [
     {
       "name": "モルタクラクス\n（The Mortacrux）",
@@ -438,19 +438,6 @@
         "general": false
       },
       "note": "★S13で追加"
-    },
-    {
-      "name": "墓花\n（Gravebloom）",
-      "slot": "メイス",
-      "effect": "小型のゴーレムを3体呼び出す。\nゴーレムは通常ダメージの[40-60]%のダメージを与え、\n攻撃速度が+30%増加する。ゴーレムの復活が50%早くなる。",
-      "class": "ネクロマンサーのみ",
-      "drops": {
-        "bosses": [
-          "？？？"
-        ],
-        "general": false
-      },
-      "note": ""
     },
     {
       "name": "オルシヴェイン\n（Orsivan）",
