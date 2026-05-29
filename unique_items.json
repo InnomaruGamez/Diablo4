@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29 09:32:52",
+  "updated_at": "2026-05-30 02:23:07",
   "items": [
     {
       "name": "モルタクラクス\n（The Mortacrux）",
@@ -1677,19 +1677,6 @@
       "note": ""
     },
     {
-      "name": "ティラエルの威力\n（Tyrael’s Might）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
-      "slot": "胸当て",
-      "effect": "ライフが最大値のときにスキルを使用すると\n神授の斉射を放ちダメージを与える。",
-      "class": "バーバリアン\nドルイド\nネクロマンサー\nローグ\nソーサラー\nスピリットボーン\nパラディン\nウォーロック",
-      "drops": {
-        "bosses": [
-          "ベリアル"
-        ],
-        "general": true
-      },
-      "note": ""
-    },
-    {
       "name": "レイザープレート\n（Razorplate）",
       "slot": "胸当て",
       "effect": "10%の確率で荊棘の加護の与えるダメージが\nx[180-200]%増加する。",
@@ -1697,6 +1684,19 @@
       "drops": {
         "bosses": [
           "デュリエル"
+        ],
+        "general": true
+      },
+      "note": ""
+    },
+    {
+      "name": "ティラエルの威力\n（Tyrael’s Might）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
+      "slot": "胸当て",
+      "effect": "ライフが最大値のときにスキルを使用すると\n神授の斉射を放ちダメージを与える。",
+      "class": "バーバリアン\nドルイド\nネクロマンサー\nローグ\nソーサラー\nスピリットボーン\nパラディン\nウォーロック",
+      "drops": {
+        "bosses": [
+          "ベリアル"
         ],
         "general": true
       },
