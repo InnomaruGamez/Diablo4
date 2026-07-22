@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22 11:34:02",
+  "updated_at": "2026-07-22 12:34:32",
   "builds": {
     "B_lunging-strike": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-lunging-strike",
@@ -27549,8 +27549,8 @@
           "rows": [
             [
               "遠距離武器",
-              "凍てついた記憶の化身\n（of Frozen Memories）",
-              "冷気状態の敵に与える冷気ダメージがx[30-45]%増加する。\nこのボーナスは凍結状態の敵に対して3倍になる。",
+              "獰猛なる化身\n（Ferocious）",
+              "猛威の蓄積最大値が[4-6]増加する。",
               "敏捷性\nライフ最大値\n武器ダメージ\nクリティカルヒットダメージ（＊凸）\n【焼戻・武器】クリティカルヒット率"
             ],
             [
