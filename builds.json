@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23 16:35:13",
+  "updated_at": "2026-09-23 18:34:18",
   "builds": {
     "B_lunging-strike": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo4-barbarian-build-lunging-strike",
@@ -36026,7 +36026,7 @@
             [
               "メインハンド",
               "正義の剣、エル=ドルイン\n（El'druin, Sword of Justice）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
-              "エリートの群れを倒すと12秒間、\n自身のスキルのクールダウン時間が10秒短縮される。",
+              "攻撃時に敵を断罪する。敵が負傷状態になると、\nその敵は受けた断罪1回ごとに神聖ダメージを受ける。\nこの効果は100回まで蓄積する。",
               "固有1：武器ダメージ\n固有2：全ダメージ増加倍数\n知力\nクリティカルヒットダメージ（＊凸）\n【焼戻・武器】クリティカルヒット率"
             ],
             [
