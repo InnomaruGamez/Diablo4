@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25 09:23:30",
+  "updated_at": "2026-09-25 09:32:26",
   "items": [
     {
       "name": "モルタクラクス\n（The Mortacrux）",
@@ -252,7 +252,7 @@
       "note": "★S13で追加"
     },
     {
-      "name": "正義の剣、エル=ドルイン\n（El'druin, Sword of Justice）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
+      "name": "正義の剣、エル=ドルイン\n（El'druin, Sword of Justice）\n\n<span style=\"color: #c998d5;\">代表的な神秘のユニーク</span>",
       "slot": "片手剣",
       "effect": "攻撃時に敵を断罪する。敵が負傷状態になると、\nその敵は受けた断罪1回ごとに神聖ダメージを受ける。\nこの効果は100回まで蓄積する。",
       "affix": "固有1：武器ダメージ\n固有2：全ダメージ増加倍数",
@@ -300,13 +300,15 @@
       "affix": "固有1：クールダウン時間短縮\n固有2：",
       "class": "バーバリアン\nドルイド\nネクロマンサー\nローグ\nパラディン\nウォーロック",
       "drops": {
-        "bosses": [],
+        "bosses": [
+          "※ドロップ率・中（～10%）"
+        ],
         "general": true
       },
-      "note": "★S15で追加\nドロップ率・中（～10%）"
+      "note": "★S15で追加"
     },
     {
-      "name": "ドゥームブリンガー\n（Doombringer）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
+      "name": "ドゥームブリンガー\n（Doombringer）\n\n<span style=\"color: #c998d5;\">代表的な神秘のユニーク</span>",
       "slot": "片手剣",
       "effect": "幸運の一撃：最大40%の確率で周囲の敵にシャドウダメージを与え、\nその敵から受けるダメージを5秒間、25%減少させる。",
       "affix": "固有1：武器ダメージ\n固有2：ライフ最大値%",
@@ -362,7 +364,7 @@
       "note": "★S13で追加"
     },
     {
-      "name": "グランドファーザー\n（The Grandfather）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
+      "name": "グランドファーザー\n（The Grandfather）\n\n<span style=\"color: #c998d5;\">代表的な神秘のユニーク</span>",
       "slot": "両手剣",
       "effect": "クリティカルヒットダメージがx120%上昇する。",
       "affix": "固有1：武器ダメージ\n固有2：クリティカルヒット率",
@@ -464,10 +466,12 @@
       "affix": "固有1：ヒット時ライフ回復\n固有2：",
       "class": "バーバリアン\nドルイド\nネクロマンサー\nパラディン\nウォーロック",
       "drops": {
-        "bosses": [],
+        "bosses": [
+          "※ドロップ率・高（～15%）"
+        ],
         "general": true
       },
-      "note": "★S15で追加\nドロップ率・高（～15%）"
+      "note": "★S15で追加"
     },
     {
       "name": "フレッシュレンダー\n（Fleshrender）",
@@ -602,10 +606,12 @@
       "affix": "固有1：幸運の一撃：火炎ダメージ\n固有2：",
       "class": "バーバリアン\nドルイド\nネクロマンサー\nパラディン\nウォーロック",
       "drops": {
-        "bosses": [],
+        "bosses": [
+          "※ドロップ率・高（～15%）"
+        ],
         "general": true
       },
-      "note": "★S15で追加\nドロップ率・高（～15%）"
+      "note": "★S15で追加"
     },
     {
       "name": "アリオックの針\n（Arioc's Needle）",
@@ -614,13 +620,15 @@
       "affix": "固有1：幸運の一撃：毒ダメージ\n固有2：",
       "class": "バーバリアン\nドルイド\nスピリットボーン",
       "drops": {
-        "bosses": [],
+        "bosses": [
+          "※ドロップ率・高（～15%）"
+        ],
         "general": true
       },
-      "note": "★S15で追加\nドロップ率・高（～15%）"
+      "note": "★S15で追加"
     },
     {
-      "name": "砕かれし誓い\n（Shattered Vow）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
+      "name": "砕かれし誓い\n（Shattered Vow）\n\n<span style=\"color: #c998d5;\">代表的な神秘のユニーク</span>",
       "slot": "長柄武器",
       "effect": "残存ライフよりも大きい継続ダメージを受けている敵を処刑する。",
       "affix": "固有1：武器ダメージ\n固有2：継続ダメージの持続時間",
@@ -746,7 +754,7 @@
       "note": ""
     },
     {
-      "name": "布告者ネセケム\n（Nesēkēm, the Herald）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
+      "name": "布告者ネセケム\n（Nesēkēm, the Herald）\n\n<span style=\"color: #c998d5;\">代表的な神秘のユニーク</span>",
       "slot": "グレイヴ",
       "effect": "2秒ごとにランダムな付近の敵1体をマークする。\nマークされた敵は脆弱状態になり、その敵に対する自身の攻撃が\n必ずクリティカルヒットになる。\n マークされた敵に10回攻撃を命中させると、その敵のマークは消える。",
       "affix": "固有1：武器ダメージ\n固有2：脆弱ダメージ増加倍率",
@@ -942,7 +950,7 @@
       "note": ""
     },
     {
-      "name": "ライカンダーの槍、アハヴァリオン\n（Ahavarion Spear of Lycander）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
+      "name": "ライカンダーの槍、アハヴァリオン\n（Ahavarion Spear of Lycander）\n\n<span style=\"color: #c998d5;\">代表的な神秘のユニーク</span>",
       "slot": "杖",
       "effect": "エリートモンスターを倒した後、20秒間、\nランダムな祭壇効果を得る（30秒に1回のみ）。",
       "affix": "固有1：武器ダメージ\n固有2：幸運の一撃：リソース回復",
@@ -1144,10 +1152,12 @@
       "affix": "固有1：敏捷性\n固有2：",
       "class": "ネクロマンサー\nソーサラー\nウォーロック",
       "drops": {
-        "bosses": [],
+        "bosses": [
+          "※ドロップ率・高（～15%）"
+        ],
         "general": true
       },
-      "note": "★S15で追加\nドロップ率・高（～15%）"
+      "note": "★S15で追加"
     },
     {
       "name": "イフェの絶望のトーテム\n（Ifeh's Dire Totem）",
@@ -1507,13 +1517,15 @@
       "affix": "固有1：攻撃速度\n固有2：",
       "class": "バーバリアン\nドルイド\nネクロマンサー\nローグ\nソーサラー\nスピリットボーン\nパラディン\nウォーロック",
       "drops": {
-        "bosses": [],
+        "bosses": [
+          "※ドロップ率・高（～15%）"
+        ],
         "general": true
       },
-      "note": "★S15で追加\nドロップ率・高（～15%）"
+      "note": "★S15で追加"
     },
     {
-      "name": "ハーレクインの紋章\n（Harlequin Crest）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
+      "name": "ハーレクインの紋章\n（Harlequin Crest）\n\n<span style=\"color: #c998d5;\">代表的な神秘のユニーク</span>",
       "slot": "兜",
       "effect": "すべてのスキルランクが+6上昇する。",
       "affix": "固有1：基本能力値\n固有2：ライフ最大値",
@@ -1527,7 +1539,7 @@
       "note": ""
     },
     {
-      "name": "アンダリエルの面\n（Andariel's Visage）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
+      "name": "アンダリエルの面\n（Andariel's Visage）\n\n<span style=\"color: #c998d5;\">代表的な神秘のユニーク</span>",
       "slot": "兜",
       "effect": "幸運の一撃：最大20%の確率で、エリア内の敵に5秒間にわたり\n40%のダメージを与えるポイズン・ノヴァを発動させる。",
       "affix": "固有1：基本能力値\n固有2：毒耐性",
@@ -1541,7 +1553,7 @@
       "note": ""
     },
     {
-      "name": "滅びの後継者\n（Heir of Perdition）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
+      "name": "滅びの後継者\n（Heir of Perdition）\n\n<span style=\"color: #c998d5;\">代表的な神秘のユニーク</span>",
       "slot": "兜",
       "effect": "与えるダメージがx15%増加する。\n憎悪に屈して母の恩恵を獲得し、敵を倒すことで付近の味方から\n一時的に母の恩恵を盗み、クリティカルヒット率が+15%増加する。",
       "affix": "固有1：基本能力値\n固有2：移動速度",
@@ -1555,7 +1567,7 @@
       "note": ""
     },
     {
-      "name": "牛王の王冠\n（The Cow King's Crown）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
+      "name": "牛王の王冠\n（The Cow King's Crown）\n\n<span style=\"color: #c998d5;\">代表的な神秘のユニーク</span>",
       "slot": "兜",
       "effect": "・月曜日：2本足の敵のダメージ+1（足の数x2=ダメージの場合）\n・火曜日：遠距離の敵に対して不運になる確率10%減少。\n　　　　　遠距離の敵とは、今日の午後の赤道を基準にした場合、\n　　　　　そこから蹄3〜18個分の距離に位置する敵を指す。\n・水曜日：敵のクールダウン時間が減少する確率（なし）\n・目標日：3AMから4AMの間、レジェンダリー・アイテム入手後2.5秒間、\n　　　　　脆弱状態および弱体化した非エリートに対するダメージが3%増加する。\n・金曜日：移動中の機動力スキルのダメージ+10.26%。\n・土曜日：すでに操作障害効果を受けていると、ヘルタイドで10週間にわたり、\n　　　　　追加の操作障害効果を+1.3%の確率で無効化する。\n・日曜日：死亡時にライフ+51（+概算値）。",
       "affix": "固有1：\n固有2：",
@@ -1825,13 +1837,15 @@
       "affix": "固有1：ゴールドドロップ率\n固有2：",
       "class": "バーバリアン\nドルイド\nネクロマンサー\nローグ\nソーサラー\nスピリットボーン\nパラディン\nウォーロック",
       "drops": {
-        "bosses": [],
+        "bosses": [
+          "※ドロップ率・中（～10%）"
+        ],
         "general": true
       },
-      "note": "★S15で追加\nドロップ率・中（～10%）"
+      "note": "★S15で追加"
     },
     {
-      "name": "ティラエルの威力\n（Tyrael’s Might）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
+      "name": "ティラエルの威力\n（Tyrael’s Might）\n\n<span style=\"color: #c998d5;\">代表的な神秘のユニーク</span>",
       "slot": "胸当て",
       "effect": "受けるダメージが20%減少する。\nライフが最大値のときにスキルを使用すると\n神授の斉射を放ちダメージを与える。",
       "affix": "固有1：基本能力値\n固有2：全耐性%",
@@ -1845,7 +1859,7 @@
       "note": ""
     },
     {
-      "name": "擬死の衣\n（Shroud of False Death）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
+      "name": "擬死の衣\n（Shroud of False Death）\n\n<span style=\"color: #c998d5;\">代表的な神秘のユニーク</span>",
       "slot": "胸当て",
       "effect": "致命的なダメージを受けると代わりに全ライフが回復し、\n自身のライフ最大値の100%にあたる障壁が3秒間付与され、\n近距離の敵をノックバックする。\n発動後は、街に戻るまでこの効果は失われる。",
       "affix": "固有1：全ステータス\n固有2：全耐性",
@@ -2320,10 +2334,12 @@
       "affix": "固有1：エリートモンスターキル時に移動速度上昇\n固有2：",
       "class": "バーバリアン\nドルイド\nネクロマンサー\nローグ\nソーサラー\nスピリットボーン\nパラディン\nウォーロック",
       "drops": {
-        "bosses": [],
+        "bosses": [
+          "※ドロップ率・高（～15%）"
+        ],
         "general": true
       },
-      "note": "★S15で追加\nドロップ率・高（～15%）"
+      "note": "★S15で追加"
     },
     {
       "name": "アリートの足並み\n（Arreat's Bearing）",
@@ -3321,7 +3337,7 @@
       "note": ""
     },
     {
-      "name": "溶けたセリグの心臓\n（Melted Heart of Selig）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
+      "name": "溶けたセリグの心臓\n（Melted Heart of Selig）\n\n<span style=\"color: #c998d5;\">代表的な神秘のユニーク</span>",
       "slot": "アミュレット",
       "effect": "ライフより先にプライマリリソースでダメージを受け、\nその際に受けるダメージを激減させる。\nリソース最大値が[58-77]%増加するが、ライフ最大値が75%減少する。",
       "affix": "固有1：基本能力値\n固有2：リソース生成量",
@@ -3993,13 +4009,15 @@
       "affix": "固有1：全スキルランク\n固有2：",
       "class": "バーバリアン\nドルイド\nネクロマンサー\nローグ\nソーサラー\nスピリットボーン\nパラディン\nウォーロック",
       "drops": {
-        "bosses": [],
+        "bosses": [
+          "※ドロップ率・低（～5%）"
+        ],
         "general": true
       },
-      "note": "★S15で追加\nドロップ率・低（～5%）"
+      "note": "★S15で追加"
     },
     {
-      "name": "星無き空の指輪\n（Ring of Starless Skies）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
+      "name": "星無き空の指輪\n（Ring of Starless Skies）\n\n<span style=\"color: #c998d5;\">代表的な神秘のユニーク</span>",
       "slot": "指輪",
       "effect": "プライマリリソースを消費すると、スキルのリソースコストが減少し、\n自身が与えるダメージが3秒間、x10%増加する（最大x50%）。",
       "affix": "固有1：基本能力値\n固有2：攻撃速度",
