@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24 09:32:26",
+  "updated_at": "2026-09-25 09:23:30",
   "items": [
     {
       "name": "モルタクラクス\n（The Mortacrux）",
@@ -300,12 +300,10 @@
       "affix": "固有1：クールダウン時間短縮\n固有2：",
       "class": "バーバリアン\nドルイド\nネクロマンサー\nローグ\nパラディン\nウォーロック",
       "drops": {
-        "bosses": [
-          "？？？"
-        ],
-        "general": false
+        "bosses": [],
+        "general": true
       },
-      "note": "★S15で追加"
+      "note": "★S15で追加\nドロップ率・中（～10%）"
     },
     {
       "name": "ドゥームブリンガー\n（Doombringer）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
@@ -466,12 +464,10 @@
       "affix": "固有1：ヒット時ライフ回復\n固有2：",
       "class": "バーバリアン\nドルイド\nネクロマンサー\nパラディン\nウォーロック",
       "drops": {
-        "bosses": [
-          "？？？"
-        ],
-        "general": false
+        "bosses": [],
+        "general": true
       },
-      "note": "★S15で追加"
+      "note": "★S15で追加\nドロップ率・高（～15%）"
     },
     {
       "name": "フレッシュレンダー\n（Fleshrender）",
@@ -606,12 +602,10 @@
       "affix": "固有1：幸運の一撃：火炎ダメージ\n固有2：",
       "class": "バーバリアン\nドルイド\nネクロマンサー\nパラディン\nウォーロック",
       "drops": {
-        "bosses": [
-          "？？？"
-        ],
-        "general": false
+        "bosses": [],
+        "general": true
       },
-      "note": "★S15で追加"
+      "note": "★S15で追加\nドロップ率・高（～15%）"
     },
     {
       "name": "アリオックの針\n（Arioc's Needle）",
@@ -620,12 +614,10 @@
       "affix": "固有1：幸運の一撃：毒ダメージ\n固有2：",
       "class": "バーバリアン\nドルイド\nスピリットボーン",
       "drops": {
-        "bosses": [
-          "？？？"
-        ],
-        "general": false
+        "bosses": [],
+        "general": true
       },
-      "note": "★S15で追加"
+      "note": "★S15で追加\nドロップ率・高（～15%）"
     },
     {
       "name": "砕かれし誓い\n（Shattered Vow）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
@@ -1152,12 +1144,10 @@
       "affix": "固有1：敏捷性\n固有2：",
       "class": "ネクロマンサー\nソーサラー\nウォーロック",
       "drops": {
-        "bosses": [
-          "？？？"
-        ],
-        "general": false
+        "bosses": [],
+        "general": true
       },
-      "note": "★S15で追加"
+      "note": "★S15で追加\nドロップ率・高（～15%）"
     },
     {
       "name": "イフェの絶望のトーテム\n（Ifeh's Dire Totem）",
@@ -1517,12 +1507,10 @@
       "affix": "固有1：攻撃速度\n固有2：",
       "class": "バーバリアン\nドルイド\nネクロマンサー\nローグ\nソーサラー\nスピリットボーン\nパラディン\nウォーロック",
       "drops": {
-        "bosses": [
-          "バールの幻影（ワールドストーン城塞）"
-        ],
-        "general": false
+        "bosses": [],
+        "general": true
       },
-      "note": "★S15で追加"
+      "note": "★S15で追加\nドロップ率・高（～15%）"
     },
     {
       "name": "ハーレクインの紋章\n（Harlequin Crest）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
@@ -1837,12 +1825,10 @@
       "affix": "固有1：ゴールドドロップ率\n固有2：",
       "class": "バーバリアン\nドルイド\nネクロマンサー\nローグ\nソーサラー\nスピリットボーン\nパラディン\nウォーロック",
       "drops": {
-        "bosses": [
-          "バールの幻影（ワールドストーン城塞）"
-        ],
-        "general": false
+        "bosses": [],
+        "general": true
       },
-      "note": "★S15で追加"
+      "note": "★S15で追加\nドロップ率・中（～10%）"
     },
     {
       "name": "ティラエルの威力\n（Tyrael’s Might）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
@@ -2334,12 +2320,10 @@
       "affix": "固有1：エリートモンスターキル時に移動速度上昇\n固有2：",
       "class": "バーバリアン\nドルイド\nネクロマンサー\nローグ\nソーサラー\nスピリットボーン\nパラディン\nウォーロック",
       "drops": {
-        "bosses": [
-          "バールの幻影（ワールドストーン城塞）"
-        ],
-        "general": false
+        "bosses": [],
+        "general": true
       },
-      "note": "★S15で追加"
+      "note": "★S15で追加\nドロップ率・高（～15%）"
     },
     {
       "name": "アリートの足並み\n（Arreat's Bearing）",
@@ -4009,12 +3993,10 @@
       "affix": "固有1：全スキルランク\n固有2：",
       "class": "バーバリアン\nドルイド\nネクロマンサー\nローグ\nソーサラー\nスピリットボーン\nパラディン\nウォーロック",
       "drops": {
-        "bosses": [
-          "？？？"
-        ],
-        "general": false
+        "bosses": [],
+        "general": true
       },
-      "note": "★S15で追加"
+      "note": "★S15で追加\nドロップ率・低（～5%）"
     },
     {
       "name": "星無き空の指輪\n（Ring of Starless Skies）\n\n<span style=\"color: #c998d5;\">神秘のユニーク</span>",
